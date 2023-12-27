@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="en"> <!-- Can replace with your own locale -->
+<head>
+  <!-- Compatability -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+  <!-- Title and Description -->
+  <title>SwordBattleRewind.IO</title>
+  <meta name="description" content="Experience the development process of SwordBattle.IO">
+  <meta name="author" content="py660 and CoderGautam">
+
+  <!-- Social media -->
+  <meta property="og:title" content="SwordbattleRewind.IO">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://replit.com/@python660/SwordBattleRewindIO">
+  <meta property="og:description" content="Experience the development process of SwordBattle.IO">
+  <meta property="og:image" content="preview.png">
+
+  <!-- Preconnect to certain useful domains as needed -->
+  <!--link rel="preconnect" href="https://cdnjs.cloudflare.com"-->
+
+  <!-- Favicons and icons -->
+  <link rel="icon" href="/favicon.png" type="image/x-icon">
+
+  <!-- Link your CSS up here -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto&family=Roboto+Condensed&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+
+  <style>
+    * {box-sizing: border-box}
+  
+    /* Set height of body and the document to 100% */
+    body, html {
+      height: 100%;
+      margin: 0;
+      font-family: 'Roboto Condensed', sans-serif;
+    }
+  
+    /* Style tab links */
+    .tablink {
+      background-color: #555;
+      color: white;
+      float: left;
+      border: none;
+      outline: none;
+      cursor: pointer;
+      padding: 14px 16px;
+      font-size: 17px;
+      width: 25%;
+    }
+  
+    .tablink:hover {
+      background-color: #777;
+    }
+  
+    /* Style the tab content (and add height:100% for full page content) */
+    .tabcontent {
+      color: white;
+      display: none;
+      padding: 100px 20px;
+      height: 100%;
+    }
+  
+    #about {background-color: #eb4034dd;}
+    #bydate {background-color: #32a852dd;}
+    #byversion {background-color: #4287f5dd;}
+    #advanced {background-color: #fcba03dd;}
+  </style>
+
+  <style>
+    select[name="commit"] {
+      border: none;
+      border-radius: 5px 5px 0 0;
+      width: 100%;
+      height: 50px;
+      box-shadow: 0 0 10px 2px white;
+        /* in order: x offset, y offset, blur size, spread size, color */
+        /* blur size and spread size are optional (they default to 0) */
+      font-family: 'Roboto Condensed', sans-serif;
+    }
+    select[name="commit"]:focus, input[type="submit"]:focus {
+      outline: none;
+    }
+    select[name="commit"]:hover, input[type="submit"]:hover {
+      cursor: pointer;
+    }
+
+    input[type="submit"] {
+      border: none;
+      border-radius: 0 0 5px 5px;
+      background-color: #eeeeee;
+      padding-top: 10px;
+      width: 100%;
+      height: 50px;
+      box-shadow: 0 0 10px 2px white;
+        /* in order: x offset, y offset, blur size, spread size, color */
+        /* blur size and spread size are optional (they default to 0) */
+      }
+    }
+  </style>
+</head>
+<body>
+  <!-- Website Content -->
+
+
+  <button class="tablink" onclick="openPage('about', this, '#eb4034')">About</button>
+  <button class="tablink" onclick="openPage('bydate', this, '#32a852')" id="defaultOpen">By Date</button>
+  <button class="tablink" onclick="openPage('byversion', this, '#4287f5')">By Version</button>
+  <button class="tablink" onclick="openPage('advanced', this, '#fcba03')">Advanced</button>
+
+  <div id="about" class="tabcontent">
+    <h1>SwordBattle.IO Time Machine</h1>
+    <h3>Rewind SwordBattle.IO to ANY version.</h3>
+    <p>Keep getting sent back here? There may be an error with the commit you chose. Try with a different version.</p>
+  </div>
+
+  <div id="bydate" class="tabcontent">
+    <h1>SwordBattle.IO Time Machine</h1>
+    <h3>Rewind SwordBattle.IO to ANY version.</h3>
+    <p>Keep getting sent back here? There may be an error with the commit you chose. Try with a different version.</p>
+    <label for="commitsbydate">Choose a commit:</label>
+    <br><br>
+    <form action="/rollback" method="post">
+      <!--div class="glow-group"-->
+      <select name="commit" id="commitsbydate" style="font-size: 1.5em; ">
+        <option value="" disabled>Loading...</option>
+      </select>
+
+      <input type="submit" value="Rollback!">
+    </form>
+  </div>
+
+  <div id="byversion" class="tabcontent">
+    <h1>SwordBattle.IO Time Machine</h1>
+    <h3>Rewind SwordBattle.IO to ANY version.</h3>
+    <p>Keep getting sent back here? There may be an error with the commit you chose. Try with a different version.</p>
+    <label for="commitsbyversion">Choose a commit:</label>
+    <br><br>
+    <form action="/rollback" method="post">
+      <select name="commit" id="commitsbyversion" style="font-size: 1.5em; ">
+        <option value="" disabled>Loading...</option>
+      </select>
+
+      <input type="submit" value="Rollback!">
+    </form>
+  </div>
+
+  <div id="advanced" class="tabcontent">
+    <h1>SwordBattle.IO Time Machine</h1>
+    <h3>Rewind SwordBattle.IO to ANY version.</h3>
+    <p>Keep getting sent back here? There may be an error with the commit you chose. Try with a different version.</p>
+    <label for="commitsadvanced">Choose a commit:</label>
+    <br><br>
+    <form action="/rollback" method="post">
+      <select name="commit" id="commitsadvanced" style="font-size: 1.5em; ">
+        <option value="" disabled>Loading...</option>
+      </select>
+
+      <input type="submit" value="Rollback!">
+    </form>
+  </div>
+
+
+
+  <!-- Javascript -->
+  <script src="script.js"></script>
+  <script>
+    function openPage(pageName,elmnt,color) {
+      var i, tabcontent, tablinks;
+      tabcontent = document.getElementsByClassName("tabcontent");
+      for (i = 0; i < tabcontent.length; i++) {
+        tabcontent[i].style.display = "none";
+      }
+      tablinks = document.getElementsByClassName("tablink");
+      for (i = 0; i < tablinks.length; i++) {
+        tablinks[i].style.backgroundColor = "";
+      }
+      document.getElementById(pageName).style.display = "block";
+      elmnt.style.backgroundColor = color;
+    }
+  
+    // Get the element with id="defaultOpen" and click on it
+    document.getElementById("defaultOpen").click();
+  </script>
+
+</body>
+</html>

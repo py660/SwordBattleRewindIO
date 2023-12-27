@@ -1,0 +1,15 @@
+<h1>There was an error in SwordBattle's code...</h1>
+<p>Don't fret! This can happen frequently as the creators of SwordBattle were prone to writing terrible code, which didn't work at times. Pick another revision and try again!</p>
+<hr>
+<h2>Logs (Commit <span id="commit">......</span>)</h2>
+<p>This is the content of output.log. You can find more information in sideput.log and/or the console.</p>
+<pre id="log">
+Loading...
+</pre>
+<script>
+  fetch("/wanted.txt").then(res => res.text()).then(text => document.getElementById("commit").innerText = text);
+  fetch("/output.log").then(res => res.text()).then(text => document.getElementById("log").innerText = text);
+</script>
+<form action="/reset" method="post">
+  <input type="submit" value="Restart Server">
+</form>

@@ -1,0 +1,1544 @@
+90762a6|2023-10-21 08:17:33 -0400|noreply@github.com|Prevent mandated recaptcha
+42f1f74|2023-10-20 23:56:44 -0400|noreply@github.com|Update cosmetics.json
+6be1531|2023-10-20 21:14:20 -0500|noreply@github.com|Merge pull request #313 from py660/patch-1
+a2455d6|2023-10-20 21:10:12 -0400|noreply@github.com|Thanks for breaking production (I thought that was Firepup's job :haha:)
+64c4c41|2023-10-20 17:40:16 -0500|noreply@github.com|Merge pull request #312 from CosmicWarlord/main
+209cde8|2023-10-18 18:35:56 -0700|noreply@github.com|Update cosmetics.json
+d7a3b0f|2023-10-18 18:34:52 -0700|noreply@github.com|Merge pull request #14 from codergautam/main
+fa81ba7|2023-10-12 18:35:20 -0500|gautamgxtv@gmail.com|Fishymine us2
+d624f74|2023-10-12 18:34:43 -0500|gautamgxtv@gmail.com|hex changes
+bd4d4d8|2023-10-07 10:57:43 -0500|gautamgxtv@gmail.com|Bug fix
+cf85268|2023-10-07 10:56:45 -0500|gautamgxtv@gmail.com|Bug fix
+b7cfb8b|2023-10-07 10:47:40 -0500|gautamgxtv@gmail.com|Merge branch 'main' of https://github.com/codergautam/swordbattle.io
+d2e766d|2023-10-07 10:47:34 -0500|gautamgxtv@gmail.com|Dynamic ssl
+719e594|2023-10-07 10:30:42 -0500|noreply@github.com|fs.writeFileSync fix
+f5f752b|2023-10-07 09:12:37 -0500|gautamgxtv@gmail.com|Merge branch 'main' of https://github.com/codergautam/swordbattle.io
+d600329|2023-10-07 09:12:31 -0500|gautamgxtv@gmail.com|Minor lag improvements
+b2bd047|2023-10-03 09:25:50 -0500|noreply@github.com|Update README.md
+0ed38f6|2023-10-02 17:51:31 -0500|gautamgxtv@gmail.com|balance changes; db-free mode
+5872f13|2023-09-26 19:59:55 -0500|gautamgxtv@gmail.com|Remove tiles
+7cf11ef|2023-09-26 06:19:52 -0500|gautamgxtv@gmail.com|Bring back big zombies
+ccd5e19|2023-09-25 13:28:16 -0500|noreply@github.com|Update Archergod.js
+020707d|2023-09-25 12:43:08 -0500|noreply@github.com|Update Player.js
+7f1ac2f|2023-09-25 11:03:16 -0500|noreply@github.com|Update Player.js
+5e89bbe|2023-09-25 11:02:03 -0500|noreply@github.com|Update AiPlayer.js
+880ddf5|2023-09-25 08:54:32 -0500|noreply@github.com|Update AiPlayer.js
+1763e90|2023-09-25 08:52:01 -0500|noreply@github.com|Update AiPlayer.js
+486b380|2023-09-24 22:58:05 -0500|gautamgxtv@gmail.com|Fix a typo
+269eed0|2023-09-24 22:46:53 -0500|gautamgxtv@gmail.com|Player class bug fix
+d486e68|2023-09-24 22:14:09 -0500|gautamgxtv@gmail.com|Player class bug fix
+1a2c07b|2023-09-24 22:13:38 -0500|gautamgxtv@gmail.com|Player class bug fix
+8b7038b|2023-09-24 22:08:58 -0500|gautamgxtv@gmail.com|git add .
+b3b4972|2023-09-24 21:56:02 -0500|gautamgxtv@gmail.com|git add .
+22cbe2a|2023-09-24 21:53:31 -0500|gautamgxtv@gmail.com|Merge branch 'main' of https://github.com/codergautam/swordbattle.io
+8fe1e08|2023-09-24 21:53:25 -0500|gautamgxtv@gmail.com|Fixes
+68334a3|2023-09-24 16:51:19 -0500|noreply@github.com|Update Archergod.js
+8243bec|2023-09-24 16:51:12 -0500|noreply@github.com|Update Archergod.js
+af21716|2023-09-24 16:50:07 -0500|noreply@github.com|Merge pull request #310 from CosmicWarlord/main
+2ff9a48|2023-09-24 14:39:36 -0700|noreply@github.com|Update Archergod.js
+7f7ba6e|2023-09-24 14:38:20 -0700|noreply@github.com|Update Archer.js
+4af06cd|2023-09-24 14:36:50 -0700|noreply@github.com|Update Fisherman.js
+baff3b4|2023-09-24 14:35:51 -0700|noreply@github.com|Update Juggernaut.js
+91b5f40|2023-09-24 14:35:10 -0700|noreply@github.com|Update Rook.js
+5694ca0|2023-09-24 14:12:04 -0500|gautamgxtv@gmail.com|Fall ready
+a3b7262|2023-09-22 19:53:30 -0500|gautamgxtv@gmail.com|Merge branch 'main' of https://github.com/codergautam/swordbattle.io
+7917345|2023-09-22 19:51:48 -0500|gautamgxtv@gmail.com|test
+e95a050|2023-09-22 19:49:33 -0500|gautamgxtv@gmail.com|Zombies
+0c5d40b|2023-09-22 13:32:10 +0000|noreply@github.com|Update cosmetics
+fb1fa5f|2023-09-22 08:29:24 -0500|noreply@github.com|Merge pull request #309 from CosmicWarlord/CosmicWarlord-patch-1
+a1b7196|2023-09-22 06:50:25 -0500|gautamgxtv@gmail.com|Acol
+6448fa1|2023-09-22 06:16:15 -0500|gautamgxtv@gmail.com|Evol selector toggle
+1706e83|2023-09-21 21:41:46 -0700|noreply@github.com|Update cosmetics.json
+9f9b4fe|2023-09-21 21:22:56 -0700|noreply@github.com|Add files via upload
+f13bca6|2023-09-21 07:30:42 -0500|gautamgxtv@gmail.com|update cosmetics
+626dbb1|2023-09-21 07:29:43 -0500|gautamgxtv@gmail.com|update cosmetics
+3156306|2023-09-21 07:24:35 -0500|gautamgxtv@gmail.com|Fall assets
+4378068|2023-09-21 07:15:54 -0500|gautamgxtv@gmail.com|Fall
+bfbb3f7|2023-09-11 19:52:02 -0500|noreply@github.com|Merge branch 'codergautam:main' into main
+848cef0|2023-09-10 17:57:58 -0700|noreply@github.com|Add files via upload
+7c1d996|2023-09-10 11:43:09 -0500|gautamgxtv@gmail.com|more priority to ping
+01d60d2|2023-09-10 11:17:52 -0500|gautamgxtv@gmail.com|more priority to ping
+fa9c2dd|2023-09-10 11:16:03 -0500|gautamgxtv@gmail.com|Ad debug mode
+ecce6f7|2023-09-09 18:04:08 -0500|gautamgxtv@gmail.com|Improved ad logic
+df3c844|2023-09-09 17:56:13 -0500|gautamgxtv@gmail.com|Improved ad logic
+072ab2d|2023-09-09 17:52:25 -0500|gautamgxtv@gmail.com|Improved ad logic
+082340c|2023-09-09 17:08:47 -0500|gautamgxtv@gmail.com|Improved ad logic
+3b5fa47|2023-09-09 15:47:12 -0500|gautamgxtv@gmail.com|Remove unneeded package
+068ad1d|2023-09-09 15:30:28 -0500|gautamgxtv@gmail.com|Update ads.txt
+6a10381|2023-09-09 15:28:39 -0500|gautamgxtv@gmail.com|Hide banner ads
+ec7a047|2023-08-25 11:30:31 -0500|gautamgxtv@gmail.com|Merge branch 'main' of https://github.com/codergautam/sword.io
+a35eb24|2023-08-25 11:30:22 -0500|gautamgxtv@gmail.com|Usa 2
+e5b8af0|2023-08-19 09:00:56 -0400|noreply@github.com|Merge pull request #306 from avalanche000/main
+0a32df4|2023-08-18 07:18:02 -0400|gautamgxtv@gmail.com|Fix evo glitch
+4001dd0|2023-08-18 07:16:52 -0400|gautamgxtv@gmail.com|Merge branch 'main' of https://github.com/codergautam/sword.io
+7e5d37e|2023-08-18 07:16:45 -0400|gautamgxtv@gmail.com|Fix evo glitch
+534f08d|2023-08-17 21:47:26 -0400|isaacroot@csdok.org|fixed extra ability glitch
+487efda|2023-08-17 21:45:03 -0400|isaacroot@csdok.org|fixed checkSubEvolutions
+6751f7e|2023-08-09 10:13:11 -0500|noreply@github.com|Merge pull request #303 from tpglitch/phoenix-icon-temp-fix
+a225c5c|2023-08-09 09:45:32 -0500|noreply@github.com|More ads
+d750ce4|2023-08-09 09:44:17 -0500|noreply@github.com|Update ads.txt
+53da3c8|2023-08-08 14:13:58 -0500|tyler@fovpowered.com|Phoenix Icon Temporary Fix -about.html
+b0640e8|2023-08-08 07:00:43 -0500|gautamgxtv@gmail.com|Push
+9995f84|2023-08-08 06:57:31 -0500|gautamgxtv@gmail.com|Merge branch 'main' of https://github.com/codergautam/sword.io
+3841956|2023-08-08 06:57:26 -0500|gautamgxtv@gmail.com|Add files
+b805a36|2023-08-08 03:33:49 +0000|66850133+codergautam@users.noreply.github.com|move
+e64c02f|2023-08-07 22:05:02 -0500|noreply@github.com|Add files via upload
+7432e3f|2023-08-07 21:20:57 -0500|gautamgxtv@gmail.com|Fixes
+ca46e8d|2023-08-07 20:16:38 -0500|gautamgxtv@gmail.com|Fixes
+efff6b9|2023-08-07 17:45:27 -0500|gautamgxtv@gmail.com|Merge branch 'main' of https://github.com/codergautam/sword.io
+f3de26a|2023-08-07 17:45:11 -0500|gautamgxtv@gmail.com|Feature
+9303c59|2023-08-07 16:28:03 -0500|noreply@github.com|Merge pull request #301 from tpglitch/tpglitch-typo-patch
+493919e|2023-08-07 15:53:51 -0500|tyler@fovpowered.com|Fix typo
+38d94d1|2023-08-06 13:14:31 -0500|gautamgxtv@gmail.com|T
+e53b442|2023-08-06 13:04:56 -0500|noreply@github.com|Merge pull request #300 from CosmicWarlord/main
+09ebd71|2023-08-06 13:04:39 -0500|gautamgxtv@gmail.com|cosmetic start
+06227ed|2023-08-06 13:04:28 -0500|noreply@github.com|Merge pull request #299 from CosmicWarlord/main
+15ae5e2|2023-08-06 13:03:00 -0500|gautamgxtv@gmail.com|Test commit
+cbfa4b2|2023-08-06 12:42:07 -0500|gautamgxtv@gmail.com|Test commit
+fffae48|2023-08-06 12:40:34 -0500|gautamgxtv@gmail.com|Reduce blue chest health
+6ea850d|2023-07-07 14:32:00 -0500|noreply@github.com|Merge pull request #297 from CosmicWarlord/main
+2d668e5|2023-06-28 17:28:38 +0530|maum9546@gmail.com|mroe
+7ed6572|2023-06-28 06:19:44 +0530|maum9546@gmail.com|some more
+49cb349|2023-06-27 19:50:14 +0530|maum9546@gmail.com|work
+2df93fc|2023-06-27 13:29:51 +0530|maum9546@gmail.com|Chest
+fb2a3bb|2023-06-26 18:17:53 -0700|noreply@github.com|Merge pull request #13 from codergautam/main
+c487bd6|2023-06-26 12:05:06 -0500|noreply@github.com|Update ads.txt
+82b99b1|2023-06-26 08:17:27 -0500|gautamgxtv@gmail.com|remove hiding both ads message:
+5b38540|2023-06-26 08:12:02 -0500|gautamgxtv@gmail.com|fix ads in death screen
+af67dc6|2023-06-26 08:10:26 -0500|gautamgxtv@gmail.com|prevent refreshing home ad every 4 seconds
+277cf42|2023-06-24 18:45:33 -0500|gautamgxtv@gmail.com|remove usa2
+80c58e6|2023-06-23 12:18:14 -0500|gautamgxtv@gmail.com|v2 announcement
+972d73b|2023-06-19 12:49:09 -0500|gautamgxtv@gmail.com|ad fixes
+b833220|2023-06-18 11:46:30 -0500|gautamgxtv@gmail.com|refer link
+fce6023|2023-06-17 15:34:45 -0500|gautamgxtv@gmail.com|Bass skin fix
+900d0b2|2023-06-17 13:39:26 -0500|gautamgxtv@gmail.com|map fix
+36b320f|2023-06-17 13:14:02 -0500|gautamgxtv@gmail.com|summer
+ea02f7e|2023-06-17 10:10:00 -0500|gautamgxtv@gmail.com|Merge branch 'main' of https://github.com/codergautam/swordbattle.io
+0b8054e|2023-06-17 10:09:49 -0500|gautamgxtv@gmail.com|patch coin farming
+0f2e593|2023-06-16 19:49:02 -0500|noreply@github.com|Merge pull request #295 from CosmicWarlord/main
+1a2b967|2023-06-16 19:48:55 -0500|noreply@github.com|Merge pull request #294 from hello-smile6/hello-smile6-timing-safe-token-validation
+c86add8|2023-06-16 19:48:12 -0500|noreply@github.com|Merge branch 'main' into main
+2c22b70|2023-06-16 21:14:01 +0530|maum9546@gmail.com|A pr on time unlike some ocean creatures
+715b5fa|2023-06-09 15:56:27 -0700|noreply@github.com|Update moderation.js
+9c8a8e5|2023-06-09 11:25:09 -0500|gautamgxtv@gmail.com|Improve preroll ads
+7162012|2023-05-31 17:17:34 -0500|gautamgxtv@gmail.com|fix banner ads
+344327c|2023-05-31 17:10:01 -0500|gautamgxtv@gmail.com|Merge branch 'main' of https://github.com/codergautam/swordbattle.io
+618aee1|2023-05-31 17:09:54 -0500|gautamgxtv@gmail.com|fix banner ads
+3b49486|2023-05-31 05:47:48 -0500|noreply@github.com|Update ads.txt
+cb4875d|2023-05-30 22:21:49 -0500|gautamgxtv@gmail.com|fix banner ads
+c34f40a|2023-05-30 21:59:25 -0500|gautamgxtv@gmail.com|fixes
+eb4fdb4|2023-05-30 21:57:01 -0500|gautamgxtv@gmail.com|fix banner ads
+732a4e8|2023-05-30 19:41:34 -0500|gautamgxtv@gmail.com|fix banner ads
+d0da4d4|2023-05-30 19:39:00 -0500|gautamgxtv@gmail.com|fix banner ads
+a9e4950|2023-05-30 19:35:48 -0500|gautamgxtv@gmail.com|fix banner ads
+2127de4|2023-05-30 19:30:01 -0500|gautamgxtv@gmail.com|fix banner ads
+94b4016|2023-05-30 19:26:08 -0500|gautamgxtv@gmail.com|fix banner ads
+0c93440|2023-05-30 18:33:29 -0500|gautamgxtv@gmail.com|fix banner ads
+40f24c0|2023-05-30 18:28:57 -0500|gautamgxtv@gmail.com|fix banner ads
+bdc60e8|2023-05-30 18:28:48 -0500|gautamgxtv@gmail.com|always show ads
+15b42e1|2023-05-30 18:25:48 -0500|gautamgxtv@gmail.com|always show ads
+6110ff4|2023-05-30 18:19:59 -0500|gautamgxtv@gmail.com|always show ads
+74dadde|2023-05-30 18:16:42 -0500|gautamgxtv@gmail.com|always show ads
+15badf8|2023-05-30 18:14:16 -0500|gautamgxtv@gmail.com|always show ads
+effee54|2023-05-30 18:13:07 -0500|gautamgxtv@gmail.com|always show ads
+44d48eb|2023-05-30 18:12:14 -0500|gautamgxtv@gmail.com|always show ads
+bb576ea|2023-05-30 18:02:17 -0500|gautamgxtv@gmail.com|always show ads
+f386a34|2023-05-30 18:00:58 -0500|gautamgxtv@gmail.com|fix
+3795b0b|2023-05-30 18:00:32 -0500|gautamgxtv@gmail.com|bug fixes
+d51189d|2023-05-30 07:39:14 -0500|noreply@github.com|Update GameScene.js
+0a5040f|2023-05-30 06:34:16 -0500|gautamgxtv@gmail.com|changes
+954bd1b|2023-05-30 06:15:57 -0500|gautamgxtv@gmail.com|evol fixes
+5ce796a|2023-05-29 20:53:11 -0500|gautamgxtv@gmail.com|reduce bots
+ae8fae0|2023-05-29 20:45:55 -0500|gautamgxtv@gmail.com|reduce bots
+4467ab2|2023-05-29 19:28:38 -0500|gautamgxtv@gmail.com|test
+602fd0a|2023-05-29 19:23:41 -0500|gautamgxtv@gmail.com|test
+adc8e79|2023-05-29 16:45:25 -0500|gautamgxtv@gmail.com|balancing
+4dbe991|2023-05-29 14:47:31 -0500|gautamgxtv@gmail.com|smoothen
+7d2b040|2023-05-29 13:56:20 -0500|gautamgxtv@gmail.com|lag improvement
+3df6f6e|2023-05-29 10:35:27 -0500|gautamgxtv@gmail.com|clear countries every 5 min
+6299d87|2023-05-29 10:34:30 -0500|gautamgxtv@gmail.com|less lag
+89b1287|2023-05-29 10:17:13 -0500|gautamgxtv@gmail.com|less lag
+ce3b161|2023-05-29 09:11:59 -0500|gautamgxtv@gmail.com|attwempt to fix ad
+2b00880|2023-05-29 09:00:24 -0500|gautamgxtv@gmail.com|attwempt to fix ad
+e9d0981|2023-05-29 08:54:10 -0500|gautamgxtv@gmail.com|fix loading
+b3c3639|2023-05-28 22:24:11 -0500|gautamgxtv@gmail.com|fix crown
+b457590|2023-05-28 22:06:45 -0500|gautamgxtv@gmail.com|loading glitch fix
+48d92e6|2023-05-28 20:48:13 -0500|gautamgxtv@gmail.com|chest harder
+4677917|2023-05-28 20:47:05 -0500|gautamgxtv@gmail.com|lumber throw fix
+5f1074c|2023-05-28 17:19:25 -0500|gautamgxtv@gmail.com|reduce heal juggernaut
+2ef1b5a|2023-05-28 17:17:58 -0500|gautamgxtv@gmail.com|reduce heal juggernaut
+ef58a59|2023-05-28 16:28:53 -0500|gautamgxtv@gmail.com|buff fisherman
+ee86daf|2023-05-28 16:28:41 -0500|gautamgxtv@gmail.com|buff fisherman
+f6f448a|2023-05-28 15:53:39 -0500|noreply@github.com|Update Lumberjack.js
+da40399|2023-05-28 15:48:33 -0500|noreply@github.com|Update Archer.js
+b976dbf|2023-05-28 15:48:02 -0500|noreply@github.com|Update Archergod.js
+92a05e0|2023-05-28 15:47:02 -0500|noreply@github.com|Update Archer.js
+375e1b9|2023-05-28 15:42:00 -0500|noreply@github.com|Update Archergod.js
+dae7678|2023-05-28 15:40:45 -0500|noreply@github.com|Update Archer.js
+a019188|2023-05-28 12:09:44 -0500|gautamgxtv@gmail.com|remove ads idk whats wrong
+91dbc32|2023-05-28 11:36:29 -0500|gautamgxtv@gmail.com|ad fixes
+c9e1531|2023-05-28 11:21:14 -0500|gautamgxtv@gmail.com|balancing
+a5169be|2023-05-28 11:14:08 -0500|gautamgxtv@gmail.com|ad test
+c9d1226|2023-05-27 23:23:46 -0500|gautamgxtv@gmail.com|balancing
+1e31b96|2023-05-27 23:11:28 -0500|gautamgxtv@gmail.com|nerf juggernaut
+2ae0362|2023-05-27 22:18:27 -0500|gautamgxtv@gmail.com|remove some testing code
+55d2424|2023-05-27 22:13:25 -0500|gautamgxtv@gmail.com|Merge branch 'main' of https://github.com/codergautam/swordbattle.io
+af9b30a|2023-05-27 22:13:16 -0500|gautamgxtv@gmail.com|evol fixes
+2201665|2023-05-27 21:14:14 -0500|noreply@github.com|Merge pull request #292 from FishyMine/main
+24d0b61|2023-05-27 21:34:33 -0400|home@fishymine.xyz|im stronger, im better.
+cf25b36|2023-05-27 15:58:55 -0500|gautamgxtv@gmail.com|chest improvements
+b8c0e5d|2023-05-27 15:24:46 -0500|gautamgxtv@gmail.com|evol fixes
+19188ad|2023-05-27 15:17:18 -0500|gautamgxtv@gmail.com|fixes
+f17605e|2023-05-27 15:12:51 -0500|gautamgxtv@gmail.com|Merge branch 'main' of https://github.com/codergautam/swordbattle.io
+86bf4b7|2023-05-27 15:12:44 -0500|gautamgxtv@gmail.com|fix country feature
+f1c9568|2023-05-27 12:21:07 -0500|noreply@github.com|Update Chest.js
+31feb5f|2023-05-27 12:19:58 -0500|noreply@github.com|Update Player.js
+18b17b7|2023-05-27 12:15:19 -0500|noreply@github.com|Update Archergod.js
+a96919f|2023-05-27 12:13:53 -0500|noreply@github.com|Update Archer.js
+73e7368|2023-05-27 10:06:50 -0500|gautamgxtv@gmail.com|Merge branch 'main' of https://github.com/codergautam/swordbattle.io
+19182aa|2023-05-27 10:06:41 -0500|gautamgxtv@gmail.com|disable banner ads
+434d510|2023-05-27 14:58:43 +0000|66850133+codergautam@users.noreply.github.com|fgdfh
+245f9db|2023-05-27 14:56:15 +0000||prevent cache css
+b61d0c1|2023-05-27 09:39:31 -0500|gautamgxtv@gmail.com|rollout
+a472ecd|2023-05-26 18:59:05 -0500|gautamgxtv@gmail.com|bug fixes + balancing
+737f94b|2023-05-26 06:25:09 -0500|gautamgxtv@gmail.com|balancing'
+10bab33|2023-05-25 06:57:54 -0500|gautamgxtv@gmail.com|Better chests
+769f5b4|2023-05-25 06:51:03 -0500|gautamgxtv@gmail.com|crown bug fixes + evol balancing
+83b0285|2023-05-24 18:28:28 -0500|gautamgxtv@gmail.com|crown on #1 player
+86226e0|2023-05-24 12:26:23 +0000|noreply@github.com|Banner Ad Improvements
+eb5ce91|2023-05-24 11:43:29 +0000|66850133+codergautam@users.noreply.github.com|Merge branch 'main' of https://github.com/codergautam/swordbattle.io
+9013838|2023-05-24 11:41:20 +0000|66850133+codergautam@users.noreply.github.com|Add banner ads on death screen
+a630364|2023-05-24 05:40:14 -0500|gautamgxtv@gmail.com|Speed improvements
+8d3aafe|2023-05-23 17:43:05 -0500|gautamgxtv@gmail.com|Remove unnecessary parenthesis in nametag
+276e4c8|2023-05-23 17:33:56 -0500|gautamgxtv@gmail.com|basic implementation country feature
+1ebb961|2023-05-23 21:46:45 +0000|noreply@github.com|changes
+52a8b36|2023-05-23 07:01:38 -0500|gautamgxtv@gmail.com|Evolution progress
+37f6f6c|2023-05-23 00:47:47 +0000|66850133+codergautam@users.noreply.github.com|Banner ad on homescreen
+c2993f2|2023-05-21 21:51:11 -0500|gautamgxtv@gmail.com|level balancing
+dd0b72e|2023-05-17 22:01:11 -0500|gautamgxtv@gmail.com|Bug fixes + add 1 new skin
+e6aacaf|2023-05-17 11:14:51 -0500|noreply@github.com|Update Promo Modal
+935bb6d|2023-05-17 11:11:19 -0500|noreply@github.com|Logic issue with rate limit
+341a6ea|2023-05-16 19:54:46 -0500|gautamgxtv@gmail.com|better rate-limits
+cf20a0b|2023-05-16 18:05:13 -0500|gautamgxtv@gmail.com|issue
+0f47d32|2023-05-16 16:39:26 -0500|gautamgxtv@gmail.com|Bug fixes
+3231b23|2023-05-16 16:37:53 -0500|noreply@github.com|Merge pull request #291 from codergautam/profviews
+e8a2d3d|2023-05-16 16:37:23 -0500|gautamgxtv@gmail.com|remove unnecessary log
+1daa009|2023-05-16 16:37:17 -0500|gautamgxtv@gmail.com|remove unnecessary log
+09e68b5|2023-05-16 16:35:28 -0500|gautamgxtv@gmail.com|i dont know what im doing
+c2a0207|2023-05-16 16:34:56 -0500|gautamgxtv@gmail.com|i dont know what im doing
+4fbe571|2023-05-16 16:34:19 -0500|gautamgxtv@gmail.com|i dont know what im doing
+816f218|2023-05-16 16:30:02 -0500|gautamgxtv@gmail.com|Fixes
+9e6519d|2023-05-16 16:16:57 -0500|gautamgxtv@gmail.com|fixes
+bb65b75|2023-05-15 05:39:53 -0500|gautamgxtv@gmail.com|Visual Fix
+1a53e8b|2023-05-15 05:39:24 -0500|gautamgxtv@gmail.com|Visual Fix
+6aecde6|2023-05-15 05:28:07 -0500|gautamgxtv@gmail.com|Bug fixes
+7e85ab9|2023-05-14 19:59:44 -0500|noreply@github.com|Merge pull request #289 from codergautam/dbopt
+2a71005|2023-05-14 19:56:52 -0500|gautamgxtv@gmail.com|Database Optimizations
+71de40b|2023-05-12 16:51:18 -0500|noreply@github.com|Update index.js
+a821578|2023-05-10 22:31:27 -0500|gautamgxtv@gmail.com|update ready
+0bbe9c1|2023-05-10 20:46:17 -0500|noreply@github.com|Merge pull request #287 from CosmicWarlord/main
+68d3a3a|2023-05-08 17:55:50 -0700|maum9546@gmail.com|Bread sword
+e17ad55|2023-05-05 20:59:10 -0500|gautamgxtv@gmail.com|don't upgrade phaser
+b8b46f1|2023-05-05 20:36:04 -0500|gautamgxtv@gmail.com|fixes
+c001295|2023-05-05 20:29:13 -0500|gautamgxtv@gmail.com|fixes
+7e9acf5|2023-05-02 19:57:36 -0700|maum9546@gmail.com|Next Batch
+337d0bd|2023-04-06 18:49:01 -0700|noreply@github.com|Merge pull request #11 from codergautam/main
+bab105a|2023-03-19 11:56:00 -0500|noreply@github.com|Update README.md
+3f0b401|2023-03-18 19:52:30 -0500|noreply@github.com|Create dockerfile
+457ef3a|2023-03-18 15:31:13 -0500|noreply@github.com|README.md improvement
+16df762|2023-03-16 15:09:12 -0500|noreply@github.com|Update index.js
+f5594f1|2023-03-13 15:45:06 -0500|noreply@github.com|Fix game breaking typo
+dedcec8|2023-03-13 13:55:03 -0500|noreply@github.com|Update index.js
+513071d|2023-03-13 13:53:32 -0500|noreply@github.com|Update index.js
+737dd9d|2023-03-13 13:49:03 -0500|noreply@github.com|Fix game-breaking black screen bug
+c76a525|2023-03-13 06:15:41 -0500|noreply@github.com|Merge pull request #283 from codergautam/gautamv2
+a3d5455|2023-03-13 06:15:04 -0500|gautamgxtv@gmail.com|weird glitch
+6d0a090|2023-03-12 14:34:01 -0500|noreply@github.com|Fix negative buying glitch
+823cab4|2023-03-12 14:12:06 -0500|noreply@github.com|Merge pull request #282 from codergautam/gautamv2
+1882007|2023-03-12 14:11:24 -0500|gautamgxtv@gmail.com|Evolution images
+118436c|2023-03-09 14:40:34 -0600|noreply@github.com|Reduce ads
+eac7f14|2023-03-09 14:25:02 -0600|noreply@github.com|Ads better for new users
+e87bcea|2023-03-09 14:20:21 -0600|noreply@github.com|Increase ads a little bit
+0ddca37|2023-03-08 19:50:59 -0600|noreply@github.com|Update promo.html
+1f91adc|2023-03-08 06:48:41 -0600|gautamgxtv@gmail.com|v2 evolution selector
+8cfdc21|2023-03-08 06:21:52 -0600|gautamgxtv@gmail.com|skin bug fix
+264a560|2023-03-07 22:11:51 -0600|noreply@github.com|Merge pull request #281 from codergautam/revert-278-main
+c8f03ac|2023-03-07 22:11:31 -0600|noreply@github.com|Revert "Upgrade the packages to latest version."
+de7c4df|2023-03-06 18:20:16 -0600|noreply@github.com|Merge pull request #279 from codergautam/gautamv2
+2438944|2023-03-06 18:12:47 -0600|gautamgxtv@gmail.com|Bot Fixes
+a9f884d|2023-03-05 17:58:10 -0600|gautamgxtv@gmail.com|(buggy) ai bot system
+b296fcf|2023-03-04 20:08:17 -0600|gautamgxtv@gmail.com|Remove unnecessary logs
+a0e6503|2023-03-04 20:07:34 -0600|gautamgxtv@gmail.com|level up text
+18e97dd|2023-03-04 20:02:22 -0600|noreply@github.com|Merge pull request #278 from yanxiaodi/main
+1449378|2023-03-05 11:07:20 +1300|yan_xiaodi@hotmail.com|Upgrade the packages to latest version.
+ce6fed8|2023-03-04 13:09:17 -0600|gautamgxtv@gmail.com|Weird chest bug-fixes
+355a834|2023-03-04 12:26:50 -0600|noreply@github.com|Merge pull request #277 from codergautam/gautamv2
+4ac00ac|2023-03-04 12:26:17 -0600|noreply@github.com|Merge pull request #276 from steve323/v2
+6526618|2023-03-04 15:41:06 +0000|89462366+steve323@users.noreply.github.com|collision resolution fix
+c80c8c2|2023-03-04 09:15:14 -0600|gautamgxtv@gmail.com|Chest size fix
+041fb31|2023-03-03 23:36:44 -0600|noreply@github.com|Merge pull request #275 from codergautam/gautamv2
+a518c33|2023-03-03 23:36:00 -0600|gautamgxtv@gmail.com|Basic Leveling system + bug fixes
+c03369a|2023-03-03 16:29:40 -0600|noreply@github.com|Update cosmetics.json
+8c82c26|2023-03-03 11:44:37 -0600|noreply@github.com|Merge pull request #270 from yhuakim/patch-1
+91a350d|2023-03-03 11:44:32 -0600|noreply@github.com|Merge branch 'main' into patch-1
+b09920f|2023-03-03 11:43:54 -0600|noreply@github.com|Merge pull request #271 from yhuakim/patch-2
+ec8282c|2023-03-03 11:43:45 -0600|noreply@github.com|Merge branch 'main' into patch-2
+d7752c7|2023-03-03 11:42:12 -0600|noreply@github.com|Merge pull request #273 from not-a-ethan/main
+544e1d3|2023-03-03 11:41:49 -0600|noreply@github.com|Merge pull request #272 from CosmicWarlord/main
+b8e6fb2|2023-03-03 11:41:15 -0600|noreply@github.com|Merge branch 'main' into main
+6dfcba0|2023-03-03 10:55:16 -0600|noreply@github.com|Merge pull request #274 from HexadecimalByte/patch-3
+3f4c6a2|2023-03-03 14:37:38 +0100|noreply@github.com|Fixed some typos in README.md
+927dece|2023-03-03 07:50:14 -0500|noreply@github.com|Update README.md
+f84484b|2023-03-02 17:36:38 -0800|noreply@github.com|Update cosmetics.json
+23a75ef|2023-03-02 17:35:03 -0800|noreply@github.com|Merge pull request #10 from codergautam/main
+ba6c0dd|2023-03-03 00:20:24 +0100|noreply@github.com|Update Readme.md
+391ec47|2023-03-03 00:13:54 +0100|noreply@github.com|Update Readme.md
+9e09f3d|2023-03-02 12:29:22 -0600|noreply@github.com|Merge pull request #269 from JeffreyWangDev/main
+b7a44b3|2023-03-02 13:15:03 -0500|noreply@github.com|Update CONTRIBUTING.md
+1799dc6|2023-03-02 13:14:30 -0500|noreply@github.com|Update README.md
+bbbfa85|2023-03-02 13:13:45 -0500|noreply@github.com|Update README.md
+1642de1|2023-03-02 07:05:03 -0600|gautamgxtv@gmail.com|Stable
+3913e49|2023-03-02 07:04:30 -0600|gautamgxtv@gmail.com|AIplayer bug fix
+e0639c7|2023-03-02 06:44:02 -0600|gautamgxtv@gmail.com|new skins + fixes
+33dbcaf|2023-03-02 06:18:48 -0600|noreply@github.com|Merge pull request #267 from codergautam/gautamv2
+2f51670|2023-03-02 06:18:24 -0600|gautamgxtv@gmail.com|Basic Minimap Added
+a5a1642|2023-03-01 08:14:43 -0600|noreply@github.com|Merge pull request #265 from CosmicWarlord/main
+29249b7|2023-03-01 06:39:27 -0600|noreply@github.com|Merge pull request #264 from codergautam/gautamv2
+a880961|2023-03-01 06:38:33 -0600|gautamgxtv@gmail.com|Client-sided chests + bug fixes
+8c50364|2023-02-28 21:47:08 -0600|gautamgxtv@gmail.com|Server sided chests
+4761a0d|2023-02-28 05:14:02 -0600|noreply@github.com|Merge pull request #263 from codergautam/gautamv2
+01e2f55|2023-02-27 19:07:53 -0600|gautamgxtv@gmail.com|Game Stats
+16e358d|2023-02-27 17:58:02 -0600|noreply@github.com|Merge pull request #262 from codergautam/gautamv2
+13b04d5|2023-02-27 17:57:24 -0600|gautamgxtv@gmail.com|Verified name bug fix
+9216b86|2023-02-27 07:45:12 -0600|noreply@github.com|Merge pull request #261 from codergautam/gautamv2
+6cfb4e6|2023-02-27 07:44:39 -0600|gautamgxtv@gmail.com|Leaderboard packet
+fafd0a7|2023-02-26 14:39:14 -0600|noreply@github.com|Merge pull request #259 from steve323/v2
+0b98a86|2023-02-26 14:16:40 -0600|noreply@github.com|Merge pull request #260 from codergautam/gautamv2
+f9612ae|2023-02-26 18:03:49 +0000|89462366+steve323@users.noreply.github.com|visual swing bug
+6ee5a89|2023-02-25 21:26:12 -0600|gautamgxtv@gmail.com|Don't play if attemptingLogin
+f9bde3c|2023-02-25 21:23:46 -0600|gautamgxtv@gmail.com|TitleUI Bug fixes
+92ca306|2023-02-25 13:49:19 -0600|noreply@github.com|Merge pull request #258 from codergautam/gautamv2
+03b5b14|2023-02-25 13:47:28 -0600|gautamgxtv@gmail.com|Better coins
+dad3cd3|2023-02-25 16:55:50 +0000|66850133+codergautam@users.noreply.github.com|Basic Coin Rendering
+54d2706|2023-02-25 09:59:48 -0600|noreply@github.com|Merge pull request #257 from codergautam/gautamv2
+1adb2e3|2023-02-24 21:12:16 -0600|gautamgxtv@gmail.com|merge bug fixes
+ce40ac5|2023-02-24 21:05:11 -0600|gautamgxtv@gmail.com|Merge branch 'v2' of https://github.com/codergautam/sword.io into gautamv2
+5125ae0|2023-02-24 21:04:54 -0600|gautamgxtv@gmail.com|Footer
+cfe0502|2023-02-24 07:51:06 -0600|noreply@github.com|Merge pull request #256 from codergautam/gautamv2
+bd7e3c0|2023-02-24 07:49:43 -0600|noreply@github.com|Merge pull request #255 from steve323/v2
+39e6c35|2023-02-24 07:49:25 -0600|noreply@github.com|Merge branch 'v2' into v2
+36405a5|2023-02-24 02:09:01 +0000|89462366+steve323@users.noreply.github.com|client side interpolation, coins (server-side)
+9e5808a|2023-02-23 18:04:36 -0600|gautamgxtv@gmail.com|profile and leaderboard pages ported
+e389ff2|2023-02-23 18:04:28 -0600|gautamgxtv@gmail.com|profile and leaderboard pages ported
+5d2f00b|2023-02-23 11:27:39 -0600|noreply@github.com|Merge pull request #254 from codergautam/gautamv2
+28f204b|2023-02-22 20:57:04 -0600|gautamgxtv@gmail.com|Basic logged-in playing
+f25d88e|2023-02-22 11:06:19 -0600|noreply@github.com|Merge pull request #253 from codergautam/gautamv2
+60ddca9|2023-02-22 11:05:50 -0600|gautamgxtv@gmail.com|dropdown completed
+0e21cc2|2023-02-21 06:44:21 -0600|noreply@github.com|Merge pull request #252 from codergautam/gautamv2
+f3c0a83|2023-02-21 06:43:40 -0600|gautamgxtv@gmail.com|Basic UserDropdown UI
+c624a18|2023-02-20 13:06:20 -0600|noreply@github.com|Merge pull request #251 from codergautam/gautamv2
+3262ee9|2023-02-20 13:05:12 -0600|gautamgxtv@gmail.com|More login integration
+77674b7|2023-02-19 20:26:11 -0600|gautamgxtv@gmail.com|Login/signup progress
+2dcebea|2023-02-19 10:10:34 -0800|maum9546@gmail.com|apocalypse player + remade fish player
+664bdd4|2023-02-19 12:02:31 -0600|noreply@github.com|Merge pull request #250 from codergautam/gautamv2
+8eb5a5d|2023-02-19 12:01:55 -0600|gautamgxtv@gmail.com|Basic login/signup functionality
+2a2782d|2023-02-19 08:45:13 -0800|maum9546@gmail.com|4 skin remakes + About 18 new skins
+e0d843c|2023-02-18 17:05:40 -0800|maum9546@gmail.com|force push
+c6e372b|2023-02-19 00:37:22 +0000|66850133+codergautam@users.noreply.github.com|Inject recaptcha client
+461f619|2023-02-18 09:03:55 -0600|gautamgxtv@gmail.com|recaptcha work needed
+876557f|2023-02-16 19:05:46 -0600|noreply@github.com|Merge pull request #236 from NeverWinCSGO/main
+e252793|2023-02-16 12:25:55 -0800|noreply@github.com|Add files via upload
+2c00c15|2023-02-16 12:25:05 -0800|noreply@github.com|Update cosmetics.json
+8828711|2023-02-16 12:21:49 -0800|noreply@github.com|Update AiPlayer.js
+0ca3108|2023-02-16 12:18:56 -0800|noreply@github.com|Merge branch 'codergautam:main' into main
+ff2faf3|2023-02-16 06:46:32 -0600|noreply@github.com|Merge pull request #249 from codergautam/gautamv2
+88083b5|2023-02-16 06:45:32 -0600|gautamgxtv@gmail.com|api testing
+32ba917|2023-02-15 20:21:03 -0600|gautamgxtv@gmail.com|API route handlers
+642c27a|2023-02-15 06:53:35 -0600|gautamgxtv@gmail.com|db more functions
+5885084|2023-02-15 05:45:37 -0600|noreply@github.com|Merge pull request #248 from codergautam/gautamv2
+422e09c|2023-02-15 05:44:51 -0600|gautamgxtv@gmail.com|Db functions added
+0e88ae1|2023-02-14 06:48:35 -0600|noreply@github.com|Merge pull request #247 from codergautam/gautamv2
+ec12f79|2023-02-14 06:48:02 -0600|gautamgxtv@gmail.com|database connection
+a4c04a7|2023-02-13 17:45:16 -0600|gautamgxtv@gmail.com|Login & Signup modals frontent
+f511a78|2023-02-09 06:49:13 -0600|gautamgxtv@gmail.com|login and signup btns
+87343ca|2023-02-08 19:08:29 -0600|gautamgxtv@gmail.com|Button animation
+a457085|2023-02-08 06:32:34 -0600|gautamgxtv@gmail.com|animation fungit add .
+efdbe19|2023-02-07 19:54:00 -0600|gautamgxtv@gmail.com|files
+c9f89fa|2023-02-07 19:48:53 -0600|gautamgxtv@gmail.com|better settings modal
+639c148|2023-02-07 19:09:49 -0600|gautamgxtv@gmail.com|re-add procfile
+398211e|2023-02-07 19:09:35 -0600|gautamgxtv@gmail.com|remove procfile
+3d23bdd|2023-02-07 19:02:34 -0600|gautamgxtv@gmail.com|Server change
+03d1eef|2023-02-07 06:42:10 -0600|gautamgxtv@gmail.com|Basic settings modal test
+e71141c|2023-02-06 19:34:52 -0600|noreply@github.com|Merge pull request #246 from codergautam/gautamv2
+a975b25|2023-02-06 19:34:18 -0600|gautamgxtv@gmail.com|WIP coin sending
+f1a3611|2023-02-06 17:31:44 -0600|noreply@github.com|Update ads.txt
+a645140|2023-02-05 12:08:43 -0600|gautamgxtv@gmail.com|Border + map changes
+1382630|2023-02-05 17:27:00 +0000|66850133+codergautam@users.noreply.github.com|contentType headers
+07d0017|2023-02-05 08:54:21 -0600|noreply@github.com|Merge pull request #245 from steve323/v2
+435823a|2023-02-05 01:09:16 +0000|89462366+steve323@users.noreply.github.com|nanotimer
+57931c5|2023-02-04 17:32:30 -0600|noreply@github.com|Merge pull request #244 from codergautam/gautamv2
+05f3e01|2023-02-04 23:31:14 +0000||replit fixes
+7538b3f|2023-02-04 20:03:48 +0000|66850133+codergautam@users.noreply.github.com|Use NPX for Typescript Compile
+7e509f0|2023-02-04 20:01:56 +0000|66850133+codergautam@users.noreply.github.com|Fix webpack merge error
+2166031|2023-02-04 13:46:41 -0600|noreply@github.com|Merge pull request #243 from codergautam/gautamv2
+2c6c31e|2023-02-04 13:46:07 -0600|gautamgxtv@gmail.com|uicam
+4e31911|2023-02-04 13:04:39 -0600|noreply@github.com|Merge branch 'gautamv2' into v2
+3fb4d5a|2023-02-04 12:24:00 -0600|gautamgxtv@gmail.com|dev cmd
+f00cd84|2023-02-04 12:19:24 -0600|noreply@github.com|Merge pull request #241 from steve323/v2
+6fe488a|2023-02-04 12:36:36 -0500|noreply@github.com|Add files via upload
+48beef2|2023-02-04 12:36:10 -0500|noreply@github.com|Delete src directory
+90f9289|2023-02-03 06:26:45 -0600|gautamgxtv@gmail.com|UICam and Leaderboard
+3460155|2023-02-01 18:19:03 -0600|noreply@github.com|Merge pull request #240 from codergautam/abilitykey
+f97490e|2023-02-01 18:18:22 -0600|noreply@github.com|Update promo.html
+4d3d741|2023-02-01 18:17:49 -0600|noreply@github.com|Switch Ability to G key + Don't trigger when chat open
+e52cbab|2023-02-01 18:16:27 -0600|noreply@github.com|Merge pull request #239 from codergautam/main
+8628d3e|2023-01-30 14:59:57 -0600|noreply@github.com|Update promo.html
+9651099|2023-01-30 14:56:57 -0600|noreply@github.com|Update cosmetics.json
+33907f8|2023-01-30 14:55:44 -0600|noreply@github.com|Merge pull request #237 from codergautam/abilitykey
+0f8cb08|2023-01-29 10:59:10 -0600|noreply@github.com|Merge pull request #238 from codergautam/gautamv2
+e0a9fc4|2023-01-29 10:39:18 -0600|gautamgxtv@gmail.com|Merge branch 'gautamv2' of https://github.com/codergautam/sword.io into gautamv2
+1c3dd9e|2023-01-29 10:38:55 -0600|gautamgxtv@gmail.com|Merge branch 'v2' of https://github.com/codergautam/sword.io into gautamv2
+228967a|2023-01-29 10:38:33 -0600|gautamgxtv@gmail.com|Deps cleanup
+32106e1|2023-01-29 10:38:02 -0600|gautamgxtv@gmail.com|Deps cleanup
+a97b81f|2023-01-28 18:44:53 +0000|66850133+codergautam@users.noreply.github.com|F key
+9235143|2023-01-28 16:55:03 +0000|66850133+codergautam@users.noreply.github.com|Fix sword
+655feb5|2023-01-28 16:35:26 +0000|66850133+codergautam@users.noreply.github.com|Remove extra slash bug
+8435a25|2023-01-28 16:24:48 +0000|66850133+codergautam@users.noreply.github.com|Replit us2 test
+5475258|2023-01-28 16:21:13 +0000|66850133+codergautam@users.noreply.github.com|1 year of swordbattle!
+cb016c7|2023-01-26 09:56:14 -0800|noreply@github.com|Update .gitignore
+1f8424b|2023-01-26 09:55:16 -0800|noreply@github.com|Update setup.js
+e33dcd5|2023-01-26 09:54:01 -0800|noreply@github.com|Update AiPlayer.js
+42b6351|2023-01-26 16:03:30 +0000|66850133+codergautam@users.noreply.github.com|Fix repl
+4ac7430|2023-01-26 15:53:49 +0000|66850133+codergautam@users.noreply.github.com|Replit hosting test us2
+fc7fbe4|2023-01-25 10:26:25 -0600|noreply@github.com|Increase ad delay
+f7b280f|2023-01-25 16:08:29 +0000|66850133+codergautam@users.noreply.github.com|Remove forum embed (for now)
+cb2a78c|2023-01-24 17:46:52 -0600|gautamgxtv@gmail.com|test
+cc10761|2023-01-24 17:26:05 -0600|gautamgxtv@gmail.com|Spelling + rotation fix melee skin
+7184799|2023-01-23 19:18:15 -0600|noreply@github.com|Update promo.html
+7f58ea5|2023-01-23 11:07:58 -0600|noreply@github.com|Update README.md
+ff4e403|2023-01-20 21:44:42 -0600|noreply@github.com|Remove Acol skin
+c3954ca|2023-01-20 13:54:51 -0600|noreply@github.com|Update Promo.html
+5a1af34|2023-01-20 16:20:59 +0000|noreply@github.com|Merge pull request #231 from REALsketchxcoding/REALsketchxcoding-New-Skins
+148f7df|2023-01-20 15:22:21 +0000|noreply@github.com|Merge pull request #234 from codergautam/v2
+1d808d3|2023-01-20 15:21:17 +0000|gautamgxtv@gmail.com|Merge
+dcf5e21|2023-01-20 15:19:48 +0000|gautamgxtv@gmail.com|Merge
+7274f73|2023-01-20 15:16:35 +0000|gautamgxtv@gmail.com|Server-sided coins
+fcafca7|2023-01-20 00:02:25 +0000|noreply@github.com|Merge pull request #233 from NeverWinCSGO/main
+843fc65|2023-01-19 11:02:27 -0800|noreply@github.com|Update index.js
+731396c|2023-01-19 10:46:36 -0800|noreply@github.com|Update index.js
+0aeba35|2023-01-12 16:21:39 -0500|noreply@github.com|Merge pull request #6 from REALsketchxcoding/REALsketchxcoding-patch-1
+5fcc467|2023-01-12 16:21:27 -0500|noreply@github.com|Merge branch 'REALsketchxcoding-New-Skins' into REALsketchxcoding-patch-1
+3712c8d|2023-01-12 16:16:25 -0500|noreply@github.com|Update cosmetics.json
+48fa91c|2023-01-12 15:39:17 -0500|noreply@github.com|Merge pull request #5 from REALsketchxcoding/REALsketchxcoding-patch-1
+172c6cb|2023-01-12 15:38:46 -0500|noreply@github.com|Update cosmetics.json
+e1f33aa|2023-01-12 15:37:42 -0500|noreply@github.com|Merge pull request #4 from REALsketchxcoding/REALsketchxcoding-update-acol-price
+604984c|2023-01-12 15:37:15 -0500|noreply@github.com|Update cosmetics.json
+e484a0b|2023-01-11 23:30:38 -0500|noreply@github.com|Merge pull request #3 from REALsketchxcoding/REALsketchxcoding-New-Skins
+9482b8c|2023-01-11 23:23:23 -0500|noreply@github.com|Merge pull request #2 from REALsketchxcoding/REALsketchxcoding-new-acol-skin
+c9b0bc2|2023-01-11 23:22:55 -0500|noreply@github.com|Add files via upload
+d758b86|2023-01-11 23:18:24 -0500|noreply@github.com|Merge pull request #1 from REALsketchxcoding/REALsketchxcoding-updated-cosmetics.json
+13b4708|2023-01-11 23:16:24 -0500|noreply@github.com|Update cosmetics.json
+9866aac|2023-01-11 23:06:53 -0500|noreply@github.com|Add files via upload
+4853e30|2023-01-04 13:35:01 -0600|noreply@github.com|Merge pull request #229 from codergautam/typo-fix-cosmetics
+017c647|2023-01-04 09:11:30 -0600|noreply@github.com|Fix slight typo in cosmetics.json
+5ba9b09|2022-12-24 21:43:26 -0500|noreply@github.com|Merge pull request #228 from codergautam/v2
+5e53903|2022-12-20 03:07:22 +0000||swing sound
+812a1e3|2022-12-10 20:04:08 -0600|noreply@github.com|Merge pull request #225 from codergautam/leaderboardranks
+28d764e|2022-12-10 20:01:59 -0600|gautamgxtv@gmail.com|Improve formatting
+de52aa5|2022-12-10 20:01:40 -0600|gautamgxtv@gmail.com|Add leaderboard ranks
+a8195e2|2022-12-09 18:20:34 -0600|noreply@github.com|Merge pull request #221 from robigan/patches/killer
+e1c730b|2022-12-09 21:33:44 +0000|35210888+robigan@users.noreply.github.com|Fix other peoples mistakes
+d6a2ba0|2022-12-09 09:07:14 -0600|noreply@github.com|Merge pull request #220 from codergautam/gautamv2
+391d137|2022-12-09 09:05:30 -0600|gautamgxtv@gmail.com|Merge branch 'gautamv2' of https://github.com/codergautam/sword.io into gautamv2
+bb26c82|2022-12-09 09:05:19 -0600|gautamgxtv@gmail.com|Merge branch 'v2' of https://github.com/codergautam/sword.io into gautamv2
+126ef5d|2022-12-09 09:05:09 -0600|gautamgxtv@gmail.com|Add yarn.lock
+b2f6e77|2022-12-09 02:19:17 +0000|66850133+codergautam@users.noreply.github.com|Death box
+09c0a6e|2022-12-03 14:14:55 -0600|gautamgxtv@gmail.com|Merge branch 'main' of https://github.com/codergautam/swordbattle.io
+2347218|2022-12-03 14:14:43 -0600|gautamgxtv@gmail.com|update europe server
+752313c|2022-11-23 08:48:27 -0800|maum9546@gmail.com|Some more skins you fat bozo (30 I think+ framework sword)
+6833c55|2022-11-22 21:05:45 -0600|noreply@github.com|Fix typo
+72ae513|2022-11-22 20:52:32 -0600|gautamgxtv@gmail.com|revert movement
+2544ac0|2022-11-22 20:35:10 -0600|gautamgxtv@gmail.com|Basic knockback, movement improvements
+2d418f2|2022-11-22 16:24:54 -0600|noreply@github.com|Merge pull request #216 from codergautam/gautamv2
+142b2bf|2022-11-22 16:23:36 -0600|noreply@github.com|Merge pull request #215 from LUIS9799/patch-18
+7e56a95|2022-11-22 17:12:40 -0500|noreply@github.com|404 fixed
+d551263|2022-11-22 06:09:33 -0600|gautamgxtv@gmail.com|Finish collisions
+0f2188f|2022-11-22 05:48:12 -0600|noreply@github.com|Merge pull request #214 from codergautam/gautamv2
+33ca6c8|2022-11-22 05:45:08 -0600|gautamgxtv@gmail.com|Fix collisions
+5620812|2022-11-22 05:28:35 -0600|gautamgxtv@gmail.com|Merge branch 'main' of https://github.com/codergautam/swordbattle.io
+c1d079b|2022-11-22 05:28:27 -0600|gautamgxtv@gmail.com|Handle chat errors
+9abfd52|2022-11-19 15:53:38 -0600|noreply@github.com|Merge pull request #213 from codergautam/gautamv2
+b116d59|2022-11-17 06:45:45 -0600|gautamgxtv@gmail.com|Basic pvp
+cea3b92|2022-11-17 06:18:10 -0600|gautamgxtv@gmail.com|Basic collision test
+5030c22|2022-11-16 18:48:09 -0600|gautamgxtv@gmail.com|swinging'
+c96b7c5|2022-11-14 19:21:32 -0600|noreply@github.com|Merge pull request #211 from codergautam/gautamv2
+dcb9b06|2022-11-14 19:20:09 -0600|gautamgxtv@gmail.com|Basic Healthbar'
+2f44d09|2022-11-14 06:34:05 -0600|gautamgxtv@gmail.com|Slight fixes
+3076687|2022-11-13 13:40:14 -0600|gautamgxtv@gmail.com|Improve error messages, slight fixes
+b3b1d3b|2022-11-12 14:00:08 -0600|noreply@github.com|Rename skins
+40d8957|2022-11-12 13:55:00 -0600|noreply@github.com|Update cosmetics.json
+9ee2532|2022-11-12 06:27:32 -0600|noreply@github.com|Merge pull request #210 from codergautam/gautamv2
+3124483|2022-11-12 06:20:03 -0600|gautamgxtv@gmail.com|Minor bug / latency improvements
+1052d81|2022-11-11 23:37:02 -0600|gautamgxtv@gmail.com|Improve delay
+ed0a8be|2022-11-11 22:27:58 -0600|gautamgxtv@gmail.com|A
+20556cb|2022-11-11 22:18:20 -0600|gautamgxtv@gmail.com|rename
+0c5765f|2022-11-11 22:14:03 -0600|gautamgxtv@gmail.com|Fix cosmetics
+89bf74a|2022-11-11 22:06:53 -0600|noreply@github.com|Merge pull request #208 from codergautam/development
+16ed782|2022-11-11 20:20:39 +0000|66850133+codergautam@users.noreply.github.com|Update webpack to remove visualizer
+7ae7f13|2022-11-11 20:18:07 +0000|66850133+codergautam@users.noreply.github.com|Ignore .replit file
+641a4b7|2022-11-11 20:13:47 +0000|66850133+codergautam@users.noreply.github.com|Fix bugs
+c9f4feb|2022-11-11 05:56:43 -0600|gautamgxtv@gmail.com|Client sided sword swinging
+d836577|2022-11-10 21:38:57 -0600|noreply@github.com|Merge branch 'main' into development
+5ba7d54|2022-11-10 21:36:40 -0600|gautamgxtv@gmail.com|Skins
+f8833cc|2022-11-10 06:41:31 -0600|gautamgxtv@gmail.com|Optimize webpack
+4a58d1c|2022-11-10 06:01:02 -0600|gautamgxtv@gmail.com|Bug fixes
+086e099|2022-11-08 19:38:32 -0600|gautamgxtv@gmail.com|Buggy movement
+9cc710f|2022-11-08 17:12:23 -0600|gautamgxtv@gmail.com|Better movement test
+ecf1c3e|2022-11-08 09:27:09 -0600|gautamgxtv@gmail.com|Movement test (not multiplayer)
+c0b72ea|2022-11-07 19:27:22 -0600|gautamgxtv@gmail.com|Send movement packets
+ddeb923|2022-11-07 16:25:32 +0000|66850133+codergautam@users.noreply.github.com|Progress on Key Presses / Better scaling
+fc6e0ef|2022-11-07 14:37:27 +0000|66850133+codergautam@users.noreply.github.com|Replit
+54f605d|2022-11-07 06:49:45 -0600|gautamgxtv@gmail.com|zooming test
+09bab40|2022-11-06 12:46:22 -0600|gautamgxtv@gmail.com|Minor improvementS
+d47eec6|2022-11-05 21:01:22 -0500|gautamgxtv@gmail.com|client sided sword
+58367e1|2022-11-05 07:57:48 -0500|gautamgxtv@gmail.com|mouse test
+3cf88ae|2022-11-05 07:40:20 -0500|gautamgxtv@gmail.com|Remove unused dependency'
+ace8dc0|2022-11-05 07:37:42 -0500|noreply@github.com|Merge pull request #202 from sonicx180/patch-3
+1b90380|2022-11-05 07:37:30 -0500|noreply@github.com|Merge branch 'v2' into patch-3
+18ac823|2022-11-05 07:36:41 -0500|noreply@github.com|Merge pull request #203 from sk337/main
+5172b9c|2022-11-05 07:35:50 -0500|noreply@github.com|Merge pull request #205 from Scotch101Tape/v2-add-typescript-server
+18c2db9|2022-11-05 07:35:18 -0500|gautamgxtv@gmail.com|basic player renderer
+695b7c9|2022-11-04 21:46:44 -0500|scotch101tape@gmail.com|Fix config files that were broken by node .
+3157a26|2022-11-04 21:37:50 -0500|scotch101tape@gmail.com|Get ts working and convert src to ts
+b34b997|2022-11-04 20:34:30 -0500|scotch101tape@gmail.com|Mark npm start as not what you want to use
+74f658c|2022-11-04 20:30:01 -0500|scotch101tape@gmail.com|Get rid of linebreak warnings
+42761bc|2022-11-04 17:21:50 -0500|scotch101tape@gmail.com|Formatting fix
+507cea8|2022-11-04 17:09:19 -0500|scotch101tape@gmail.com|Configure .replit
+dd5da0e|2022-11-04 10:57:35 -0700|79583517+sk337@users.noreply.github.com|Update .gitignore
+cf91d26|2022-11-04 10:42:50 -0700|79583517+sk337@users.noreply.github.com|Update setup.js
+c1085ed|2022-11-04 05:59:44 -0500|gautamgxtv@gmail.com|Evols object
+3980c01|2022-11-04 05:59:30 -0500|gautamgxtv@gmail.com|custom json sending
+a02c8ab|2022-11-03 20:12:49 -0500|gautamgxtv@gmail.com|Fix ESLint issues
+ea0dadd|2022-11-03 06:33:39 -0500|gautamgxtv@gmail.com|Typescript ESlint support
+2df440b|2022-11-02 20:46:45 -0500|gautamgxtv@gmail.com|Basic dynamic skin loading handler
+49421e0|2022-11-02 06:39:40 -0500|noreply@github.com|Update README.md
+ebd04f4|2022-11-02 06:33:21 -0500|noreply@github.com|Create LICENSE.md
+f33133b|2022-11-01 20:41:49 -0500|gautamgxtv@gmail.com|Basic quadtree, eslint changes
+2853fbc|2022-11-01 17:02:17 -0700|noreply@github.com|Add metadata tags
+4247516|2022-11-01 17:00:14 -0700|noreply@github.com|Clean up code a bit
+dc9af79|2022-11-01 05:58:20 -0500|gautamgxtv@gmail.com|improvements
+d17f63e|2022-10-31 11:43:13 +0000|66850133+codergautam@users.noreply.github.com|Update promo
+915f96f|2022-10-31 11:30:21 +0000|66850133+codergautam@users.noreply.github.com|Add pumpkin skin (for after halloween), Limited time support.
+abebc86|2022-10-31 06:22:04 -0500|gautamgxtv@gmail.com|progress
+7b7d12a|2022-10-29 11:03:11 -0500|noreply@github.com|Merge pull request #200 from codergautam/revert-199-revert-194-main
+ac2f23c|2022-10-29 11:02:47 -0500|noreply@github.com|Revert "Revert "Bacth 3 fixed""
+e8fa518|2022-10-29 10:58:25 -0500|noreply@github.com|Merge pull request #199 from codergautam/revert-194-main
+e4cfc8d|2022-10-29 10:58:18 -0500|noreply@github.com|Revert "Bacth 3 fixed"
+979081c|2022-10-28 08:46:25 -0500|noreply@github.com|Merge pull request #194 from CosmicWarlord/main
+5542a4c|2022-10-28 08:43:35 -0500|noreply@github.com|Merge pull request #195 from LUIS9799/patch-16
+67d0409|2022-10-28 06:50:47 -0500|gautamgxtv@gmail.com|basic room joining
+6a14155|2022-10-27 18:42:14 -0500|noreply@github.com|May be server-side issues?
+de7c133|2022-10-27 06:28:39 -0500|gautamgxtv@gmail.com|Improved packet  sending, json support
+ef0f414|2022-10-26 16:26:25 -0700|maum9546@gmail.com|Batch 3 (fixed)
+1da039a|2022-10-26 06:25:17 -0500|gautamgxtv@gmail.com|Basic binary packets
+c989ee2|2022-10-25 19:38:33 -0700|maum9546@gmail.com|Batch 3
+3a6d4aa|2022-10-25 18:03:32 -0700|maum9546@gmail.com|Batch 3(I think) 50+ skins(I think)
+4e59e11|2022-10-24 19:45:04 -0500|gautamgxtv@gmail.com|fixes
+469d086|2022-10-24 19:44:25 -0500|gautamgxtv@gmail.com|Error modal + improvements
+0999fd4|2022-10-24 06:31:02 -0500|gautamgxtv@gmail.com|Remove unused MyScene reference
+492be38|2022-10-24 06:30:37 -0500|gautamgxtv@gmail.com|Connecting Websocket
+9268b3a|2022-10-23 21:28:06 -0500|gautamgxtv@gmail.com|Remove resize handler
+7fdc104|2022-10-23 21:20:22 -0500|gautamgxtv@gmail.com|Merge branch 'v2' of https://github.com/codergautam/sword.io into v2
+02a76f6|2022-10-23 21:20:19 -0500|gautamgxtv@gmail.com|phaser builtin scaling
+6c1b240|2022-10-23 19:16:28 +0000|66850133+codergautam@users.noreply.github.com|Replit support
+8730872|2022-10-23 10:28:40 -0500|gautamgxtv@gmail.com|responsive media queries
+9d45602|2022-10-23 10:19:34 -0500|gautamgxtv@gmail.com|Styling+elems
+ffc0956|2022-10-22 23:29:13 -0500|gautamgxtv@gmail.com|Testg
+802d7eb|2022-10-22 23:26:16 -0500|gautamgxtv@gmail.com|E
+051f2a0|2022-10-22 20:59:35 -0500|noreply@github.com|Update README.md
+d7548af|2022-10-22 20:59:23 -0500|noreply@github.com|Update README.md
+e973193|2022-10-22 11:56:01 -0500|gautamgxtv@gmail.com|Fix package.json
+973dc85|2022-10-22 11:05:30 -0500|noreply@github.com|Merge pull request #192 from mollthecoder/patch-6
+f9edac1|2022-10-22 09:14:52 -0400|noreply@github.com|Make AiPlayer.js more efficient
+f1047a1|2022-10-22 07:43:20 -0500|gautamgxtv@gmail.com|Module styles
+5629d24|2022-10-22 07:31:57 -0500|gautamgxtv@gmail.com|State handler for scene changes, CSS fix
+835ba37|2022-10-21 12:57:28 -0500|gautamgxtv@gmail.com|basic resize
+f5d931b|2022-10-21 12:15:42 -0500|gautamgxtv@gmail.com|Rm DS_Store
+499c602|2022-10-21 12:12:57 -0500|gautamgxtv@gmail.com|Switch to typescript
+f16d308|2022-10-21 11:51:51 -0500|gautamgxtv@gmail.com|Template
+0bb7efb|2022-10-20 10:59:20 -0500|gautamgxtv@gmail.com|Ignore
+8274f7f|2022-10-20 09:40:09 -0500|gautamgxtv@gmail.com|Update promo
+d312b01|2022-10-19 21:55:07 -0500|gautamgxtv@gmail.com|Fix typo
+c7e569b|2022-10-19 20:28:04 -0500|noreply@github.com|Merge pull request #190 from codergautam/main
+98fdf3f|2022-10-19 20:27:04 -0500|gautamgxtv@gmail.com|Merge branch 'development' of https://github.com/codergautam/sword.io
+7b55e3b|2022-10-19 20:26:52 -0500|gautamgxtv@gmail.com|remove redundant logs
+990a5ba|2022-10-19 08:36:03 -0500|noreply@github.com|Merge pull request #189 from simmbiote/feature/186-username-responsive
+ccfc1b9|2022-10-18 22:24:48 +0200|johnsi@tfg.co.za|Move styling to CSS file. Adapt text size and width for each major breakpoint.
+218742c|2022-10-18 22:24:10 +0200|johnsi@tfg.co.za|Add ID attribute to div containing username, so that it can be targeted
+60d7b3a|2022-10-18 20:14:31 +0200|noreply@github.com|Merge pull request #1 from codergautam/main
+f5ba3bc|2022-10-17 18:38:59 -0500|noreply@github.com|Update TitleScene.js
+3fc61f0|2022-10-17 16:20:30 -0500|gautamgxtv@gmail.com|Bug fixes
+1bd8bb1|2022-10-16 18:51:25 -0500|gautamgxtv@gmail.com|Minor changes
+5c77946|2022-10-16 18:12:50 -0500|noreply@github.com|Merge pull request #185 from CosmicWarlord/main
+90d22f5|2022-10-16 14:17:14 -0700|maum9546@gmail.com|Better reaperSword
+90ca55d|2022-10-16 13:38:56 -0700|maum9546@gmail.com|fallSword
+ef7722c|2022-10-16 12:00:36 -0700|maum9546@gmail.com|Superhero sword added
+44a03f5|2022-10-16 10:42:38 -0500|gautamgxtv@gmail.com|Change skin message
+28bf746|2022-10-16 10:40:08 -0500|gautamgxtv@gmail.com|Merge branch 'development' of https://github.com/codergautam/sword.io
+00f73b3|2022-10-16 10:39:48 -0500|gautamgxtv@gmail.com|update promo
+1fcacea|2022-10-16 10:36:18 -0500|noreply@github.com|Merge pull request #184 from codergautam/development
+29d079d|2022-10-15 22:35:27 -0500|noreply@github.com|Merge pull request #9 from codergautam/development
+91bbb1c|2022-10-15 22:25:55 -0500|gautamgxtv@gmail.com|Merge branch 'development' of https://github.com/codergautam/sword.io into development
+b2789fa|2022-10-15 22:25:46 -0500|gautamgxtv@gmail.com|:Merge branch 'main' of https://github.com/codergautam/sword.io into development
+ad3d0c8|2022-10-15 22:24:30 -0500|noreply@github.com|Merge pull request #183 from CosmicWarlord/main
+2f64eb7|2022-10-15 22:23:16 -0500|noreply@github.com|Merge pull request #182 from simmbiote/feature/login-modal-styling
+6af156e|2022-10-15 19:52:52 -0700|maum9546@gmail.com|Batch 2 fixes (fallPlayer bigger, spongeSword new, superhero eyes)
+f866f15|2022-10-15 19:47:14 -0700|maum9546@gmail.com|Batch 2 fixes (Better sponge sword, superhero eye fixes, bigger fallPlayer)
+bcf7915|2022-10-16 00:00:09 +0200|johnsi@tfg.co.za|Fix: font size adjustments, css code comments, organisation.
+7450f54|2022-10-15 23:43:45 +0200|johnsi@tfg.co.za|FEAT: Clean up Whats New modal.
+c7117ea|2022-10-15 22:58:12 +0200|johnsi@tfg.co.za|FEAT: Style settings modal
+930cb4b|2022-10-15 22:57:52 +0200|johnsi@tfg.co.za|FIX: Move <head> out of title.html - should not be there.
+0f5f0a8|2022-10-15 22:25:19 +0200|johnsi@tfg.co.za|WIP: Clean up css on signup.html
+eb7edeb|2022-10-15 22:17:12 +0200|johnsi@tfg.co.za|FEAT: Move css to style.css, style login modal with close button.
+7078dc2|2022-10-14 20:52:24 -0500|gautamgxtv@gmail.com|Dynamic image loading
+4c99daa|2022-10-14 06:07:09 -0500|noreply@github.com|Merge pull request #180 from codergautam/development
+579050f|2022-10-14 06:05:58 -0500|gautamgxtv@gmail.com|Remove low effort / incorrect skins
+5439ec2|2022-10-14 06:01:53 -0500|gautamgxtv@gmail.com|:wMerge branch 'main' of https://github.com/codergautam/sword.io into development
+6acced5|2022-10-14 06:00:42 -0500|noreply@github.com|Merge pull request #178 from CosmicWarlord/main
+09555c5|2022-10-13 18:26:08 -0500|gautamgxtv@gmail.com|:wqMerge branch 'main' of https://github.com/codergautam/sword.io into development
+182f847|2022-10-13 18:26:01 -0500|gautamgxtv@gmail.com|Improve circle sliding algorithm
+e80cce0|2022-10-12 19:20:39 -0700|maum9546@gmail.com|Batch 2
+3d8438d|2022-10-12 18:56:36 -0500|noreply@github.com|Add 10 new skins
+b0723c2|2022-10-12 18:56:07 -0500|gautamgxtv@gmail.com|A
+221f71d|2022-10-12 17:34:56 -0500|noreply@github.com|Merge pull request #175 from CosmicWarlord/main
+7d45e5c|2022-10-12 15:18:53 -0700|maum9546@gmail.com|P
+19fa8cb|2022-10-11 22:14:48 -0500|noreply@github.com|Merge pull request #174 from CosmicWarlord/main
+63fa482|2022-10-11 20:06:57 -0700|maum9546@gmail.com|Batch 1
+bdfc7ab|2022-10-11 20:17:38 -0500|gautamgxtv@gmail.com|Fixes bug where people aren't removed from the minimap
+0aa3005|2022-10-11 18:40:03 -0500|gautamgxtv@gmail.com|Update whats new modal
+3e250dd|2022-10-11 18:36:24 -0500|gautamgxtv@gmail.com|Merge branch 'main' of https://github.com/codergautam/sword.io
+5559644|2022-10-11 18:36:16 -0500|gautamgxtv@gmail.com|A
+c1e4d60|2022-10-11 17:40:50 +0000|66850133+codergautam@users.noreply.github.com|Fix "roaching"
+afe4a02|2022-10-11 17:06:16 +0000|66850133+codergautam@users.noreply.github.com|Make XP leaderboard the default
+79aa238|2022-10-11 09:00:48 -0500|noreply@github.com|Fix export's name
+5f05a10|2022-10-11 09:00:10 -0500|noreply@github.com|Nerf Rook Class (too powerful)
+fd7d4de|2022-10-11 07:42:29 -0500|noreply@github.com|Increase rate limit
+ed18e7c|2022-10-10 18:26:04 -0500|gautamgxtv@gmail.com|USA Server update
+71d5d30|2022-10-09 22:28:50 -0500|gautamgxtv@gmail.com|Fix create your own skin link
+0c16501|2022-10-09 19:33:43 -0500|gautamgxtv@gmail.com|aa
+83713c8|2022-10-09 19:19:13 -0500|gautamgxtv@gmail.com|Switch
+3edb6d0|2022-10-08 22:17:34 -0500|gautamgxtv@gmail.com|fix
+1a397c7|2022-10-08 17:58:03 -0500|gautamgxtv@gmail.com|test
+6d1e3fa|2022-10-07 23:34:46 -0500|gautamgxtv@gmail.com|update units.html
+a5b815e|2022-10-07 21:25:59 -0500|gautamgxtv@gmail.com|Small fixes
+5e34a01|2022-10-07 21:14:06 -0500|gautamgxtv@gmail.com|Ad units testing
+aa10ea8|2022-10-07 13:10:32 -0500|noreply@github.com|Merge pull request #173 from eesazahed/main
+3ba08a3|2022-10-07 18:08:01 +0000||Remove Dist folder
+f16f374|2022-10-07 13:07:57 +0000|66850133+codergautam@users.noreply.github.com|Minimap glitch fix
+a3abae2|2022-10-06 20:44:11 -0500|gautamgxtv@gmail.com|Bug fixes
+c33d8aa|2022-10-06 19:48:55 -0500|gautamgxtv@gmail.com|Bigger map
+82eda9c|2022-10-06 19:47:33 -0500|gautamgxtv@gmail.com|make map bigger
+19dc477|2022-10-06 21:38:53 +0000|66850133+codergautam@users.noreply.github.com|Fix chest spawning
+f977a3c|2022-10-06 17:48:01 +0000|66850133+codergautam@users.noreply.github.com|Fix chest bug
+48f141d|2022-10-06 17:21:13 +0000|66850133+codergautam@users.noreply.github.com|Chest fix
+392095f|2022-10-06 09:01:55 -0500|noreply@github.com|Update footer.html
+41c840e|2022-10-06 08:13:27 -0500|noreply@github.com|Update promo.html
+c519642|2022-10-06 06:11:16 -0500|gautamgxtv@gmail.com|Update what's new modal
+3e2263d|2022-10-06 06:07:30 -0500|gautamgxtv@gmail.com|Merge branch 'main' of https://github.com/codergautam/sword.io
+37a9020|2022-10-06 06:07:21 -0500|gautamgxtv@gmail.com|Update what's new modal
+bc2fd03|2022-10-06 05:55:35 -0500|noreply@github.com|Merge pull request #172 from codergautam/revert-171-main
+fdd67e8|2022-10-06 05:55:27 -0500|noreply@github.com|Revert "Better discord logo"
+1e4ca82|2022-10-06 05:54:48 -0500|gautamgxtv@gmail.com|chests
+cf588d9|2022-10-06 05:53:06 -0500|gautamgxtv@gmail.com|Merge branch 'main' of https://github.com/codergautam/sword.io
+cd64848|2022-10-06 05:52:58 -0500|gautamgxtv@gmail.com|chests
+dda3886|2022-10-05 22:57:52 -0500|noreply@github.com|Merge pull request #171 from eesazahed/main
+29e54e9|2022-10-05 18:31:27 -0500|gautamgxtv@gmail.com|Base chest system
+32c46ba|2022-10-04 20:38:25 -0500|gautamgxtv@gmail.com|buy auto updating
+1af277f|2022-10-04 17:20:24 -0500|gautamgxtv@gmail.com|Recaptcha checking on sign-up
+302aefb|2022-10-04 09:17:11 -0500|noreply@github.com|Better discord logo
+00fd357|2022-10-04 06:06:28 -0500|gautamgxtv@gmail.com|Merge branch 'main' of https://github.com/codergautam/sword.io
+c86b36b|2022-10-04 06:06:20 -0500|gautamgxtv@gmail.com|feat: range based player updating
+218a148|2022-10-04 05:27:26 -0500|noreply@github.com|Merge pull request #170 from tpglitch/rl-friendlier
+df0ab95|2022-10-03 19:28:38 -0500|gautamgxtv@gmail.com|Fix evolving levels.
+b5fad39|2022-10-03 19:27:28 -0500|gautamgxtv@gmail.com|Better setup messages
+f7c0380|2022-10-03 19:24:58 -0500|gautamgxtv@gmail.com|re-add evolutions
+cf44924|2022-10-03 19:11:27 -0500|noreply@github.com|Rate-limit message friendlier
+c54cc2b|2022-10-03 17:43:00 -0500|gautamgxtv@gmail.com|re-add cosmic red name
+be0ab13|2022-10-03 06:33:20 -0500|gautamgxtv@gmail.com|re-implement old profanity check
+154b4d6|2022-10-03 06:26:29 -0500|gautamgxtv@gmail.com|re-add improved leaderboard + user page
+f79aae2|2022-10-02 10:44:27 -0500|gautamgxtv@gmail.com|mobile support
+2e38eac|2022-10-02 10:34:11 -0500|gautamgxtv@gmail.com|mobile support
+bab5057|2022-10-02 09:09:35 -0500|gautamgxtv@gmail.com|enemy dest
+b148e46|2022-10-01 19:46:27 -0500|gautamgxtv@gmail.com|Update promo
+79c0635|2022-10-01 19:46:01 -0500|gautamgxtv@gmail.com|Update promo
+17ea86f|2022-09-30 14:01:57 +0000|66850133+codergautam@users.noreply.github.com|Fixes
+95f2990|2022-09-30 13:57:39 +0000|66850133+codergautam@users.noreply.github.com|fix C button
+6c42440|2022-09-30 11:34:17 +0000|66850133+codergautam@users.noreply.github.com|Bug fixed
+abf4891|2022-09-29 19:48:35 -0500|gautamgxtv@gmail.com|full websocket beta
+f1995fc|2022-09-29 19:48:16 -0500|gautamgxtv@gmail.com|Merge branch 'main' of https://github.com/codergautam/sword.io
+b126c5f|2022-09-29 19:48:09 -0500|gautamgxtv@gmail.com|fully websocket beta
+017a839|2022-09-28 20:10:05 -0500|noreply@github.com|Update OpenScene.js
+0a1bf72|2022-09-28 19:04:45 -0500|noreply@github.com|Update user.ejs
+8c99abb|2022-09-28 19:03:10 -0500|noreply@github.com|Update OpenScene.js
+e092a1b|2022-09-28 18:21:31 -0500|gautamgxtv@gmail.com|A
+22bdeb3|2022-09-20 19:28:32 -0500|gautamgxtv@gmail.com|increase leaderboard, xp calculation change
+b0c2271|2022-09-18 19:40:43 -0500|gautamgxtv@gmail.com|a
+9ae1b73|2022-09-18 19:34:16 -0500|gautamgxtv@gmail.com|Add prices
+f52a8e9|2022-09-18 19:30:34 -0500|gautamgxtv@gmail.com|Add new skins
+26fe793|2022-08-29 09:28:38 -0500|gautamgxtv@gmail.com|spelling fix
+b52efd7|2022-08-28 13:46:06 -0500|gautamgxtv@gmail.com|a
+6f51e3a|2022-08-27 15:23:16 -0500|gautamgxtv@gmail.com|uh oh
+7964ea5|2022-08-26 21:35:16 -0500|gautamgxtv@gmail.com|bug fixes
+b9308c6|2022-08-25 12:31:23 -0500|gautamgxtv@gmail.com|update
+e839b9c|2022-08-24 18:34:21 -0500|gautamgxtv@gmail.com|A
+9fbe8b4|2022-08-24 13:48:15 -0500|gautamgxtv@gmail.com|NEW UPDATE
+d777b56|2022-08-22 21:24:48 -0500|gautamgxtv@gmail.com|fix discord
+09cc17f|2022-08-15 17:46:56 -0500|gautamgxtv@gmail.com|Merge branch 'main' of https://github.com/codergautam/sword.io
+3a6cd70|2022-08-15 17:46:44 -0500|gautamgxtv@gmail.com|A
+8514781|2022-08-08 11:55:55 -0500|noreply@github.com|Merge pull request #163 from eesazahed/main
+9e739a1|2022-08-08 11:55:36 -0500|noreply@github.com|Merge pull request #164 from LUIS9799/patch-13
+4a1324a|2022-07-30 18:14:54 -0500|noreply@github.com|Security enhancements
+cc4c51c|2022-07-27 20:08:31 -0400|noreply@github.com|Add files via upload
+ad6f5e3|2022-07-27 12:20:21 -0500|gautamgxtv@gmail.com|fdg
+c111798|2022-07-27 11:59:45 -0500|gautamgxtv@gmail.com|f
+0479386|2022-07-26 13:42:49 -0500|gautamgxtv@gmail.com|ban
+d1510ca|2022-07-26 13:42:39 -0500|gautamgxtv@gmail.com|Merge branch 'main' of https://github.com/codergautam/sword.io
+d09dff4|2022-07-26 13:42:24 -0500|gautamgxtv@gmail.com|ban
+398d1b6|2022-07-26 13:41:59 -0500|gautamgxtv@gmail.com|ban
+732bce1|2022-07-22 10:51:11 -0500|noreply@github.com|Merge pull request #161 from eesazahed/main
+9010459|2022-07-19 22:10:10 -0400|noreply@github.com|Update footer.html
+b6b2c6d|2022-07-19 22:06:19 -0400|noreply@github.com|made many changes in front-end
+bd3ce76|2022-07-16 17:48:19 -0500|gautamgxtv@gmail.com|F
+2b6b84a|2022-07-16 15:07:54 -0500|gautamgxtv@gmail.com|g
+2d522f8|2022-07-15 19:56:20 -0500|gautamgxtv@gmail.com|yo
+3e47a3a|2022-07-15 15:48:59 -0500|gautamgxtv@gmail.com|angel sword
+146d20a|2022-07-11 16:26:09 -0500|gautamgxtv@gmail.com|gMerge branch 'main' of https://github.com/codergautam/sword.io
+67660c5|2022-07-11 16:25:58 -0500|gautamgxtv@gmail.com|bug fix
+24d4f66|2022-07-09 09:13:29 -0500|noreply@github.com|Merge pull request #159 from eesazahed/dev
+87b1490|2022-07-07 17:58:24 -0400|noreply@github.com|Update settings.html
+7a87bea|2022-07-07 17:55:46 -0400|noreply@github.com|Update settings.html
+6ad9f47|2022-07-07 17:55:23 -0400|noreply@github.com|Update dropdown.html
+a9f7332|2022-07-06 12:55:54 -0500|gautamgxtv@gmail.com|Rip usa
+7f6f8a0|2022-06-28 20:19:09 -0500|gautamgxtv@gmail.com|sorry
+333c25f|2022-06-28 20:16:23 -0500|gautamgxtv@gmail.com|new skins + recaptcha fix?
+8bda8b8|2022-06-24 15:21:39 -0500|gautamgxtv@gmail.com|loader
+1266c07|2022-06-24 15:02:07 -0500|gautamgxtv@gmail.com|fix cookie
+59209d8|2022-06-21 15:47:24 -0500|gautamgxtv@gmail.com|new skins
+b1d4791|2022-06-21 15:41:07 -0500|noreply@github.com|Merge pull request #150 from Manage-passwords/patch-7
+a8f6713|2022-06-21 15:40:59 -0500|noreply@github.com|Merge pull request #151 from Manage-passwords/patch-8
+aaf1860|2022-06-21 09:31:55 -0500|noreply@github.com|Update README.md
+7d6126f|2022-06-21 05:33:59 -0700|noreply@github.com|Update OpenScene.js
+ec20b3c|2022-06-20 21:28:50 -0700|noreply@github.com|Update cosmetics.json
+f3e42eb|2022-06-20 14:21:06 -0500|gautamgxtv@gmail.com|build
+87810fb|2022-06-20 14:20:48 -0500|gautamgxtv@gmail.com|Merge branch 'main' of https://github.com/codergautam/sword.io
+25faba1|2022-06-20 14:20:39 -0500|gautamgxtv@gmail.com|yt
+f189efd|2022-06-19 10:28:35 -0500|noreply@github.com|Merge pull request #149 from ruiwenge2/patch-6
+30d81dd|2022-06-18 09:25:03 -0700|noreply@github.com|Update index.html
+e5c9ef9|2022-06-17 21:29:01 -0500|noreply@github.com|Merge pull request #148 from mollthecoder/main
+4cc727b|2022-06-17 20:44:39 -0400|noreply@github.com|Update shop.ejs
+43abc2c|2022-06-17 09:43:16 -0500|gautamgxtv@gmail.com|fix mobile recaptcha resize bug
+8016f5b|2022-06-13 21:36:35 -0500|gautamgxtv@gmail.com|reduce sword cooldown
+e4fb51f|2022-06-13 19:25:48 -0500|gautamgxtv@gmail.com|ping fishy if usa
+3414437|2022-06-12 21:38:53 -0500|gautamgxtv@gmail.com|forgot to git add
+397d729|2022-06-12 21:33:41 -0500|gautamgxtv@gmail.com|fix prod build
+382c749|2022-06-12 21:32:25 -0500|gautamgxtv@gmail.com|updates
+406599d|2022-06-12 14:26:14 -0500|gautamgxtv@gmail.com|use babel
+a52e560|2022-06-11 15:09:03 -0500|gautamgxtv@gmail.com|fix
+bcfdbdd|2022-06-11 15:06:29 -0500|gautamgxtv@gmail.com|fix mem leak
+ac26e38|2022-06-11 14:49:07 -0500|gautamgxtv@gmail.com|balance throw
+3445012|2022-06-11 14:37:04 -0500|gautamgxtv@gmail.com|balance throw
+27de791|2022-06-11 14:25:52 -0500|gautamgxtv@gmail.com|fixes
+03260b4|2022-06-11 12:22:59 -0500|gautamgxtv@gmail.com|fixes
+544a093|2022-06-10 22:04:51 -0500|gautamgxtv@gmail.com|sword fixes
+67d879c|2022-06-10 21:57:54 -0500|gautamgxtv@gmail.com|swordthrow changes
+0698454|2022-06-10 21:39:28 -0500|gautamgxtv@gmail.com|E
+cc707e0|2022-06-10 18:43:22 -0500|gautamgxtv@gmail.com|nerf tank
+417b940|2022-06-10 18:41:58 -0500|gautamgxtv@gmail.com|improve client
+ced6ba1|2022-06-10 14:17:46 -0500|gautamgxtv@gmail.com|E
+ccb7a5e|2022-06-10 12:21:37 -0500|gautamgxtv@gmail.com|error bug
+e1ff16f|2022-06-10 12:06:30 -0500|gautamgxtv@gmail.com|add webhook logging + nerf tank
+4e9d9c5|2022-06-09 19:34:46 -0500|gautamgxtv@gmail.com|E
+f2d4792|2022-06-09 17:35:57 -0500|gautamgxtv@gmail.com|fix close button
+180fd16|2022-06-09 17:20:13 -0500|gautamgxtv@gmail.com|nerf throw
+49b6814|2022-06-09 16:17:13 -0500|gautamgxtv@gmail.com|oop
+df45488|2022-06-09 16:15:20 -0500|gautamgxtv@gmail.com|oop
+43f0fc5|2022-06-09 16:05:40 -0500|gautamgxtv@gmail.com|E
+b748b8e|2022-06-09 15:00:57 -0500|gautamgxtv@gmail.com|E
+9e0a3ea|2022-06-08 18:30:56 -0500|gautamgxtv@gmail.com|better ai
+fe52e7c|2022-06-08 14:34:11 -0500|gautamgxtv@gmail.com|bug fixes
+2357a56|2022-06-08 14:18:26 -0500|gautamgxtv@gmail.com|conflict
+9f18927|2022-06-08 14:17:58 -0500|gautamgxtv@gmail.com|throw sword + new skins
+5009da0|2022-06-08 12:37:01 -0500|noreply@github.com|Merge pull request #140 from codergautam/revert-135-main
+e2644ac|2022-06-08 12:36:42 -0500|noreply@github.com|Revert "Add AI indication"
+a4df381|2022-06-06 10:03:12 -0500|noreply@github.com|Merge pull request #135 from mollthecoder/main
+de7bbb7|2022-06-05 23:05:20 -0400|noreply@github.com|Add AI indication
+370a57f|2022-06-03 08:52:27 -0500|noreply@github.com|Fix evolution not rendering while spectating
+64c51a6|2022-06-03 05:38:40 -0500|gautamgxtv@gmail.com|uh oh
+57f121c|2022-06-02 18:34:06 -0500|gautamgxtv@gmail.com|Bug fixes
+dceccf6|2022-06-02 14:33:49 -0500|noreply@github.com|Fix mobile issue with movement
+1a60534|2022-06-02 06:43:57 -0500|gautamgxtv@gmail.com|clean
+e989f48|2022-06-01 06:47:36 -0500|gautamgxtv@gmail.com|version bump
+3eb420e|2022-06-01 06:42:39 -0500|gautamgxtv@gmail.com|status + announcements + sword
+e27a619|2022-05-31 18:06:40 -0500|gautamgxtv@gmail.com|buff tank
+43109b4|2022-05-30 10:47:43 -0500|gautamgxtv@gmail.com|fixes
+1c0b411|2022-05-30 08:19:00 -0500|gautamgxtv@gmail.com|E
+d5013d0|2022-05-30 08:14:53 -0500|gautamgxtv@gmail.com|update promo link
+eb40185|2022-05-30 08:13:19 -0500|gautamgxtv@gmail.com|no need to rerun build
+1f22d8f|2022-05-30 08:11:34 -0500|gautamgxtv@gmail.com|fix setup?
+266bbd3|2022-05-30 08:10:28 -0500|gautamgxtv@gmail.com|fix setup?
+37bb38c|2022-05-30 08:05:57 -0500|noreply@github.com|Merge pull request #133 from swordbattle/evolution
+a98174b|2022-05-30 08:03:53 -0500|gautamgxtv@gmail.com|ready
+290e9d1|2022-05-30 07:44:58 -0500|gautamgxtv@gmail.com|merge
+b6ff1c5|2022-05-30 07:43:30 -0500|gautamgxtv@gmail.com|E
+205a857|2022-05-29 22:28:59 -0500|gautamgxtv@gmail.com|done?
+2a44d12|2022-05-29 20:46:06 -0500|gautamgxtv@gmail.com|improved buffs
+90d3a7c|2022-05-29 17:50:53 -0500|gautamgxtv@gmail.com|working
+9893664|2022-05-29 17:04:58 -0500|gautamgxtv@gmail.com|almost done'
+a2f1bea|2022-05-28 17:36:33 -0500|gautamgxtv@gmail.com|progress
+a8ac27d|2022-05-28 11:21:17 -0500|gautamgxtv@gmail.com|button
+e644ec1|2022-05-27 20:48:05 -0500|gautamgxtv@gmail.com|local sword favicon
+c762423|2022-05-27 20:45:20 -0500|noreply@github.com|Merge pull request #131 from LUIS9799/patch-10
+84a8f47|2022-05-27 20:45:10 -0500|noreply@github.com|Merge pull request #132 from LUIS9799/patch-11
+f735cc9|2022-05-27 18:13:14 -0500|noreply@github.com|Fixed favicon for title.html
+6945ca2|2022-05-27 18:12:11 -0500|noreply@github.com|Fixed favicon
+73ddc4f|2022-05-27 16:36:41 -0500|gautamgxtv@gmail.com|yMerge branch 'evolution' of https://github.com/codergautam/sword.io into evolution
+8a139d5|2022-05-27 16:36:30 -0500|gautamgxtv@gmail.com|Merge branch 'main' of https://github.com/codergautam/sword.io into evolution
+7b97c75|2022-05-27 20:31:42 +0000|66850133+codergautam@users.noreply.github.com|Progress
+71a49c3|2022-05-27 10:04:46 -0500|noreply@github.com|Merge pull request #126 from LUIS9799/patch-8
+7f1c111|2022-05-27 10:04:36 -0500|noreply@github.com|Merge branch 'main' into patch-8
+f9ec991|2022-05-27 10:03:08 -0500|noreply@github.com|Merge pull request #127 from LUIS9799/patch-6
+a4d6aec|2022-05-27 10:02:54 -0500|noreply@github.com|Merge pull request #128 from LUIS9799/patch-9
+ab896cf|2022-05-27 15:01:48 +0000|66850133+codergautam@users.noreply.github.com|improve wizard, p rod config
+1d2ba12|2022-05-27 07:04:16 -0500|gautamgxtv@gmail.com|p
+c085c02|2022-05-26 06:39:02 -0500|gautamgxtv@gmail.com|progress
+7f27aa4|2022-05-25 18:36:26 -0500|noreply@github.com|Added Metatags and added favicon
+57e656f|2022-05-25 18:31:01 -0500|noreply@github.com|Added favicon
+bba8e74|2022-05-25 18:30:07 -0500|noreply@github.com|Added metatags
+79b49a9|2022-05-25 06:31:45 -0500|gautamgxtv@gmail.com|E
+fd4c1ad|2022-05-25 06:14:58 -0500|gautamgxtv@gmail.com|yo Merge branch 'main' of https://github.com/codergautam/sword.io into evolution
+df6e52a|2022-05-24 06:43:17 -0500|gautamgxtv@gmail.com|added links
+0bcb67c|2022-05-24 06:42:06 -0500|gautamgxtv@gmail.com|added links
+11adf53|2022-05-23 06:50:42 -0500|gautamgxtv@gmail.com|pull + progress
+61e3185|2022-05-23 06:42:48 -0500|gautamgxtv@gmail.com|pull
+d4bd097|2022-05-22 06:44:37 -0500|gautamgxtv@gmail.com|Fix Profanity Error
+f16869d|2022-05-22 06:40:06 -0500|gautamgxtv@gmail.com|E
+d292667|2022-05-22 06:31:36 -0500|noreply@github.com|Update README.md
+b5c161d|2022-05-22 06:29:20 -0500|gautamgxtv@gmail.com|aah
+20beeb5|2022-05-22 06:27:07 -0500|gautamgxtv@gmail.com|serverstate
+0438c33|2022-05-22 06:22:50 -0500|gautamgxtv@gmail.com|update setup
+f76640a|2022-05-22 06:17:51 -0500|gautamgxtv@gmail.com|E
+b523c29|2022-05-22 06:09:09 -0500|gautamgxtv@gmail.com|Don't run build
+3744c2a|2022-05-22 06:08:22 -0500|gautamgxtv@gmail.com|Better for devs
+5ad9429|2022-05-22 06:03:44 -0500|gautamgxtv@gmail.com|Better for devs
+fd27067|2022-05-21 17:18:42 -0500|gautamgxtv@gmail.com|update email
+ef37ee2|2022-05-21 08:56:20 -0500|gautamgxtv@gmail.com|fix the middleware
+46d5c80|2022-05-21 08:43:08 -0500|gautamgxtv@gmail.com|E
+9eeca3c|2022-05-19 16:17:48 -0500|noreply@github.com|Merge pull request #111 from sonicx180/patch-6
+0e95a5f|2022-05-19 11:52:37 -0500|noreply@github.com|Merge branch 'main' into patch-6
+21448ee|2022-05-19 06:40:01 -0500|gautamgxtv@gmail.com|remove dep purgomalum
+8eddf21|2022-05-19 06:34:18 -0500|noreply@github.com|Merge pull request #110 from DillonB07/bad-words
+e2c24e1|2022-05-19 06:29:12 -0500|gautamgxtv@gmail.com|Fix conflicts
+d48761e|2022-05-18 19:31:29 -0700|noreply@github.com|Reuse with Functions
+d9ba002|2022-05-18 19:04:53 +0100|dillonbarnes07@gmail.com|Remove commented code
+afdca0f|2022-05-18 18:45:00 +0100|dillonbarnes07@gmail.com|Check for bad words in names and chat
+e539857|2022-05-18 11:35:23 -0500|noreply@github.com|Update README.md
+cba19eb|2022-05-18 06:34:29 -0500|gautamgxtv@gmail.com|fix recaptcha
+3c9fcfb|2022-05-18 06:25:30 -0500|gautamgxtv@gmail.com|fix recaptcha
+df9171e|2022-05-18 06:24:09 -0500|gautamgxtv@gmail.com|fix recaptcha
+7877d19|2022-05-18 06:22:31 -0500|gautamgxtv@gmail.com|improvements
+296e863|2022-05-18 06:22:02 -0500|gautamgxtv@gmail.com|Merge branch 'main' of https://github.com/codergautam/sword.io
+aadf8fa|2022-05-18 06:21:54 -0500|gautamgxtv@gmail.com|improvements
+59e4ff9|2022-05-17 06:53:38 -0500|gautamgxtv@gmail.com|better boxes?
+c24ce2d|2022-05-17 06:33:42 -0500|noreply@github.com|Merge pull request #105 from LUIS9799/patch-6
+1229d06|2022-05-17 06:24:41 -0500|gautamgxtv@gmail.com|e
+a14ecd4|2022-05-17 06:19:51 -0500|gautamgxtv@gmail.com|e
+0b9b756|2022-05-17 05:59:34 -0500|gautamgxtv@gmail.com|e
+e42eaf7|2022-05-17 05:56:46 -0500|gautamgxtv@gmail.com|e
+5d0dc21|2022-05-17 05:47:30 -0500|gautamgxtv@gmail.com|e
+8282b20|2022-05-17 05:34:38 -0500|gautamgxtv@gmail.com|e
+852f1c4|2022-05-17 05:32:24 -0500|gautamgxtv@gmail.com|db fix
+f830828|2022-05-16 18:21:39 -0500|gautamgxtv@gmail.com|Db change
+72080df|2022-05-16 18:17:12 -0500|gautamgxtv@gmail.com|f
+ac2ae82|2022-05-13 21:20:28 -0500|noreply@github.com|✅Fixed ratelimit bc it is not working as you want it to work
+702a124|2022-05-13 06:11:24 -0500|gautamgxtv@gmail.com|Improvements, bigger map, bushes better
+99e41ee|2022-05-12 21:05:14 -0500|gautamgxtv@gmail.com|work
+be91005|2022-05-12 22:31:32 +0000|66850133+codergautam@users.noreply.github.com|Add ads.txt
+61baa61|2022-05-07 17:02:53 -0500|gautamgxtv@gmail.com|sync
+64b3a02|2022-05-06 20:58:11 -0500|gautamgxtv@gmail.com|E
+a6a33c8|2022-05-06 20:54:25 -0500|gautamgxtv@gmail.com|stable
+0b660f7|2022-05-06 20:53:42 -0500|gautamgxtv@gmail.com|stable
+c895d3b|2022-05-06 17:00:18 -0500|gautamgxtv@gmail.com|E
+c9ae206|2022-05-06 16:47:13 -0500|gautamgxtv@gmail.com|E
+a98d59a|2022-05-06 16:47:04 -0500|gautamgxtv@gmail.com|Merge branch 'main' of https://github.com/codergautam/sword.io
+5aa86a6|2022-05-06 16:46:53 -0500|gautamgxtv@gmail.com|E
+f522575|2022-05-06 10:33:14 -0500|noreply@github.com|Update index.html
+164b83a|2022-05-05 22:20:42 -0500|gautamgxtv@gmail.com|bug fixes
+2910be1|2022-05-05 06:59:53 -0500|gautamgxtv@gmail.com|evolution progress
+51d3fc1|2022-05-04 20:34:23 -0500|noreply@github.com|Create FUNDING.yml
+843efd8|2022-05-04 19:33:41 -0500|gautamgxtv@gmail.com|small bug fix my ocd
+4b5ef1f|2022-05-04 19:31:10 -0500|gautamgxtv@gmail.com|small bug fix my ocd
+433fd0f|2022-05-04 18:18:36 -0500|gautamgxtv@gmail.com|E
+429ba2e|2022-05-04 18:01:45 -0500|gautamgxtv@gmail.com|E
+7f64dd8|2022-05-04 17:54:00 -0500|gautamgxtv@gmail.com|E
+d548d91|2022-05-04 17:47:13 -0500|gautamgxtv@gmail.com|E
+4dd1350|2022-05-04 16:30:43 -0500|gautamgxtv@gmail.com|bug fixes
+9e96e83|2022-05-04 06:39:29 -0500|gautamgxtv@gmail.com|down
+f3935a3|2022-05-04 06:01:30 -0500|gautamgxtv@gmail.com|upgrade postgres
+b06d938|2022-05-04 05:54:50 -0500|gautamgxtv@gmail.com|updated server thing
+0622f31|2022-05-04 05:31:49 -0500|gautamgxtv@gmail.com|e
+bbb1cc0|2022-05-03 22:06:36 -0500|gautamgxtv@gmail.com|angel
+b08f527|2022-05-03 21:56:21 -0500|gautamgxtv@gmail.com|angel skin
+ecd2f74|2022-05-03 18:40:18 -0500|gautamgxtv@gmail.com|feat: clean exit
+4b77f9f|2022-05-03 07:03:59 -0500|gautamgxtv@gmail.com|Improvements
+b8faaf2|2022-05-01 20:13:28 -0700|noreply@github.com|Added double token authentication
+84257cb|2022-05-01 19:41:15 -0500|gautamgxtv@gmail.com|levels improved
+ea660b5|2022-05-01 17:52:41 -0500|gautamgxtv@gmail.com|bug
+4cb3ab6|2022-05-01 13:30:12 -0500|gautamgxtv@gmail.com|add limiter
+8c97bff|2022-05-01 09:57:40 -0500|gautamgxtv@gmail.com|add limiter
+df86616|2022-05-01 09:01:36 -0500|gautamgxtv@gmail.com|fix ddos temp
+afc95bd|2022-04-30 17:48:56 -0500|gautamgxtv@gmail.com|re
+0d2c085|2022-04-30 13:33:06 -0500|gautamgxtv@gmail.com|re
+6f333af|2022-04-28 16:00:01 -0500|gautamgxtv@gmail.com|fix error
+bc5ffe1|2022-04-27 20:02:02 -0500|gautamgxtv@gmail.com|s
+944bfea|2022-04-27 17:16:04 -0500|gautamgxtv@gmail.com|evolution boilerplate
+5838f42|2022-04-26 14:07:57 +0000|66850133+codergautam@users.noreply.github.com|fix server selector algorithm
+b604255|2022-04-25 20:13:59 -0500|gautamgxtv@gmail.com|Merge branch 'main' of https://github.com/codergautam/sword.io
+55f5f66|2022-04-25 20:13:51 -0500|gautamgxtv@gmail.com|e
+1d0ccd3|2022-04-23 21:15:59 -0500|noreply@github.com|Merge pull request #93 from mollthecoder/main
+05a4110|2022-04-23 20:24:24 -0400|noreply@github.com|Update index.js
+2483721|2022-04-20 21:45:57 -0500|gautamgxtv@gmail.com|e
+dfd3f5f|2022-04-20 16:03:44 -0500|gautamgxtv@gmail.com|Merge branch 'main' of https://github.com/codergautam/sword.io
+0c55cdf|2022-04-20 16:03:36 -0500|gautamgxtv@gmail.com|updated server chooser
+50cad7a|2022-04-17 12:16:25 -0500|noreply@github.com|Merge pull request #90 from mollthecoder/main
+cbd4036|2022-04-16 15:17:09 -0400|noreply@github.com|Fix error from last commit
+76a5abb|2022-04-16 12:11:19 -0500|gautamgxtv@gmail.com|ukraine
+de78803|2022-04-16 08:50:26 -0500|noreply@github.com|Merge pull request #89 from mollthecoder/main
+e6bfb87|2022-04-16 01:07:39 -0400|noreply@github.com|Update moderation.js
+edae54d|2022-04-16 00:44:11 -0400|noreply@github.com|Update index.js
+7f81197|2022-04-13 18:49:03 -0500|gautamgxtv@gmail.com|easter
+5c19597|2022-04-13 18:20:09 -0500|gautamgxtv@gmail.com|E
+3f2777d|2022-04-13 18:19:48 -0500|gautamgxtv@gmail.com|E
+de21442|2022-04-13 17:44:16 -0500|gautamgxtv@gmail.com|gcloud
+8c79975|2022-04-13 17:10:33 -0500|gautamgxtv@gmail.com|chat
+05d2c52|2022-04-11 17:46:33 +0000|66850133+codergautam@users.noreply.github.com|fish server
+3403458|2022-04-11 12:37:14 -0500|noreply@github.com|fish server pog
+3222fe2|2022-04-10 15:02:51 -0500|gautamgxtv@gmail.com|heroku
+2ff2123|2022-04-10 15:02:31 -0500|gautamgxtv@gmail.com|Merge branch 'main' of https://github.com/codergautam/sword.io
+e976ff4|2022-04-10 15:02:23 -0500|gautamgxtv@gmail.com|heroku
+e46bb02|2022-04-10 17:20:45 +0000|gautamgxtv@gmail.com|E
+5b13713|2022-04-10 12:19:00 -0500|gautamgxtv@gmail.com|digitalocean
+c0be53b|2022-04-10 12:17:59 -0500|gautamgxtv@gmail.com|digitalocean
+e1a396b|2022-04-10 12:15:47 -0500|gautamgxtv@gmail.com|digitalocean
+ffebf9c|2022-04-06 18:35:00 +0000|66850133+codergautam@users.noreply.github.com|e
+9b37290|2022-04-06 13:30:01 -0500|noreply@github.com|Update .replit
+5bcc6d1|2022-04-06 12:29:13 -0500|gautamgxtv@gmail.com|scythe
+50823f9|2022-04-06 11:54:28 -0500|gautamgxtv@gmail.com|e
+3cab08a|2022-04-06 11:49:15 -0500|gautamgxtv@gmail.com|spring
+d0cace7|2022-04-06 11:33:33 -0500|gautamgxtv@gmail.com|e
+9ef1569|2022-04-06 11:33:11 -0500|gautamgxtv@gmail.com|Fix spring
+3659f5a|2022-04-04 13:33:58 +0000|66850133+codergautam@users.noreply.github.com|e
+c436303|2022-04-02 15:01:04 -0500|gautamgxtv@gmail.com|Merge branch 'main' of https://github.com/codergautam/sword.io
+3cef897|2022-04-02 15:00:55 -0500|gautamgxtv@gmail.com|spring skin
+08cabbd|2022-04-01 18:19:48 +0000|66850133+codergautam@users.noreply.github.com|add playtime in days
+453662f|2022-03-31 19:11:46 +0000|66850133+codergautam@users.noreply.github.com|dsfg
+2768efe|2022-03-31 19:09:49 +0000|66850133+codergautam@users.noreply.github.com|pog
+dd859fd|2022-03-31 19:06:36 +0000|66850133+codergautam@users.noreply.github.com|uh
+2c5a8cb|2022-03-31 14:03:22 -0500|gautamgxtv@gmail.com|E
+095fa2f|2022-03-31 14:03:13 -0500|gautamgxtv@gmail.com|E
+304ca18|2022-03-30 08:39:14 -0500|gautamgxtv@gmail.com|i hate glitch
+e083c37|2022-03-29 21:31:03 -0500|gautamgxtv@gmail.com|E
+9431062|2022-03-29 19:47:34 -0500|gautamgxtv@gmail.com|E
+72d9276|2022-03-29 19:34:55 -0500|gautamgxtv@gmail.com|e
+20debaf|2022-03-29 19:34:22 -0500|gautamgxtv@gmail.com|e
+f033ff0|2022-03-30 00:05:59 +0000|gautamgxtv@gmail.com|e
+087237a|2022-03-29 19:05:02 -0500|gautamgxtv@gmail.com|e
+07f7991|2022-03-29 19:03:54 -0500|gautamgxtv@gmail.com|Merge branch 'main' of https://github.com/codergautam/sword.io
+dff6ec4|2022-03-29 19:03:46 -0500|gautamgxtv@gmail.com|e
+1c42439|2022-03-29 19:01:21 -0500|noreply@github.com|Merge pull request #88 from codergautam/shop
+37551ca|2022-03-29 16:08:00 -0500|gautamgxtv@gmail.com|shop done
+c70a377|2022-03-29 12:01:10 -0500|gautamgxtv@gmail.com|progress
+a6c861d|2022-03-28 23:21:57 +0000|gautamgxtv@gmail.com|Merge branch 'main' of https://github.com/codergautam/swordbattle.io into main
+73e4456|2022-03-28 23:21:51 +0000|gautamgxtv@gmail.com|e
+84f04c4|2022-03-28 18:21:15 -0500|gautamgxtv@gmail.com|e
+1555768|2022-03-28 18:16:34 -0500|gautamgxtv@gmail.com|e
+999cbf0|2022-03-28 17:39:44 -0500|gautamgxtv@gmail.com|e
+d783615|2022-03-28 22:36:39 +0000|gautamgxtv@gmail.com|ssl
+7077684|2022-03-26 01:32:34 +0000|66850133+codergautam@users.noreply.github.com|e
+519bf42|2022-03-25 20:32:12 -0500|gautamgxtv@gmail.com|lock
+27440cb|2022-03-25 20:31:39 -0500|gautamgxtv@gmail.com|lock
+d0b1ba1|2022-03-25 15:06:09 -0500|gautamgxtv@gmail.com|e
+8323fe7|2022-03-25 14:36:28 -0500|gautamgxtv@gmail.com|e
+c8c5fc8|2022-03-25 14:23:02 -0500|gautamgxtv@gmail.com|e
+6f34353|2022-03-25 14:22:22 -0500|gautamgxtv@gmail.com|e
+70f6514|2022-03-24 20:17:33 -0500|gautamgxtv@gmail.com|e
+f9bb7b2|2022-03-24 20:14:01 -0500|gautamgxtv@gmail.com|improvementS
+4b1e717|2022-03-24 20:11:47 -0500|gautamgxtv@gmail.com|improvementS
+b2f6d3c|2022-03-24 19:47:17 -0500|gautamgxtv@gmail.com|ui improvements
+e6041fa|2022-03-24 19:47:06 -0500|gautamgxtv@gmail.com|ui improvementsg
+1c7bea8|2022-03-24 18:59:46 -0500|gautamgxtv@gmail.com|bug fixes + level increase
+124f282|2022-03-23 17:32:39 -0500|gautamgxtv@gmail.com|e
+55c3cdb|2022-03-23 17:18:47 -0500|noreply@github.com|Merge pull request #87 from codergautam/betterdeath
+a5e8d98|2022-03-23 17:13:38 -0500|noreply@github.com|Merge branch 'main' into betterdeath
+c870b7a|2022-03-23 22:09:15 +0000|66850133+codergautam@users.noreply.github.com|Done
+57efd6e|2022-03-23 15:55:26 +0000|66850133+codergautam@users.noreply.github.com|asdfg
+0400076|2022-03-22 22:47:43 -0500|gautamgxtv@gmail.com|e
+10bf5f3|2022-03-22 22:40:00 -0500|gautamgxtv@gmail.com|i hate my life
+158ccd4|2022-03-23 03:26:41 +0000|66850133+codergautam@users.noreply.github.com|k
+ad008ec|2022-03-23 02:43:54 +0000|66850133+codergautam@users.noreply.github.com|e
+83d10ee|2022-03-22 21:45:31 +0000|66850133+codergautam@users.noreply.github.com|sdfsdfg
+8a980cc|2022-03-21 22:49:55 -0500|gautamgxtv@gmail.com|s
+739c251|2022-03-21 22:06:18 +0000|66850133+codergautam@users.noreply.github.com|e
+6b06478|2022-03-20 21:46:38 -0500|gautamgxtv@gmail.com|updated signing key
+f2060e8|2022-03-20 19:54:51 -0500|gautamgxtv@gmail.com|privacy policy
+5b0e523|2022-03-20 18:47:17 -0500|gautamgxtv@gmail.com|improvements
+845540e|2022-03-20 14:19:46 -0500|gautamgxtv@gmail.com|test
+f4bf587|2022-03-20 12:57:07 -0500|gautamgxtv@gmail.com|E
+33cb25b|2022-03-19 22:01:50 -0500|gautamgxtv@gmail.com|crosshair fix + movement improved
+001bf80|2022-03-19 19:46:42 -0500|gautamgxtv@gmail.com|pvp improvements
+dd2e5cb|2022-03-19 09:25:44 -0500|gautamgxtv@gmail.com|work
+b207d19|2022-03-17 21:18:58 -0500|gautamgxtv@gmail.com|bug fixes
+8f65c0d|2022-03-17 18:50:44 -0500|gautamgxtv@gmail.com|sound
+fd216ad|2022-03-17 18:48:09 -0500|gautamgxtv@gmail.com|sound
+fb630ed|2022-03-17 18:46:14 -0500|gautamgxtv@gmail.com|sound
+bf90efe|2022-03-16 20:00:47 -0500|gautamgxtv@gmail.com|Fix knockback
+12225dc|2022-03-16 19:05:13 -0500|gautamgxtv@gmail.com|e
+4e24a46|2022-03-16 18:42:45 -0500|noreply@github.com|Chat
+e70df31|2022-03-15 22:13:52 -0500|gautamgxtv@gmail.com|chat finished
+997e1ac|2022-03-14 21:39:11 -0500|gautamgxtv@gmail.com|e
+94fdfd2|2022-03-14 21:37:42 -0500|gautamgxtv@gmail.com|e
+e1b77ab|2022-03-14 21:35:47 -0500|gautamgxtv@gmail.com|Revert "Cool updates"
+8ead37c|2022-03-14 23:03:09 +0000|66850133+codergautam@users.noreply.github.com|Cool updates
+d639a3a|2022-03-13 19:50:11 -0500|gautamgxtv@gmail.com|bug fixes
+3a1e918|2022-03-13 19:39:56 -0500|gautamgxtv@gmail.com|sync
+b9e5f8b|2022-03-13 19:32:19 -0500|noreply@github.com|Merge pull request #85 from codergautam/bush+chest
+05a58ee|2022-03-10 18:57:31 -0600|gautamgxtv@gmail.com|e
+91783db|2022-03-10 18:56:33 -0600|gautamgxtv@gmail.com|e
+3e164f1|2022-03-10 15:33:09 +0000|66850133+codergautam@users.noreply.github.com|Double chest loot, reduce bush spawn
+4157f9d|2022-03-08 22:14:21 +0000|66850133+codergautam@users.noreply.github.com|dg
+524bb7e|2022-03-07 22:25:51 -0600|gautamgxtv@gmail.com|sql e
+ab5f2a8|2022-03-07 22:18:40 -0600|gautamgxtv@gmail.com|sql e
+c78b6f2|2022-03-07 20:13:47 -0600|gautamgxtv@gmail.com|working on chat
+7543420|2022-03-07 17:55:39 +0000|66850133+codergautam@users.noreply.github.com|e
+144be15|2022-03-07 15:42:24 +0000|66850133+codergautam@users.noreply.github.com|Prevent database overload
+f208e12|2022-03-06 22:16:44 -0600|gautamgxtv@gmail.com|Lerp sword anim???
+d2bb553|2022-03-06 21:29:57 -0600|gautamgxtv@gmail.com|cursor
+e1a6376|2022-03-06 15:56:07 -0600|gautamgxtv@gmail.com|build
+f5da125|2022-03-06 15:55:46 -0600|noreply@github.com|Merge pull request #84 from codergautam/objects
+5294158|2022-03-06 15:55:40 -0600|noreply@github.com|Merge branch 'main' into objects
+44febd0|2022-03-06 15:54:51 -0600|gautamgxtv@gmail.com|bushes
+3cc649c|2022-03-06 14:41:06 -0600|gautamgxtv@gmail.com|build
+efa0cfc|2022-03-06 14:40:05 -0600|gautamgxtv@gmail.com|e
+4f9e2cc|2022-03-05 16:48:13 +0000|66850133+codergautam@users.noreply.github.com|r
+69f0f08|2022-03-04 22:13:08 -0600|gautamgxtv@gmail.com|e
+3a84498|2022-03-02 19:01:12 -0600|gautamgxtv@gmail.com|Bug fixes, scale, no more lerp
+99f1e69|2022-03-01 18:44:56 -0600|gautamgxtv@gmail.com|Multiserver
+8748958|2022-03-01 18:43:41 -0600|noreply@github.com|Merge pull request #82 from codergautam/multiserver
+ce242f0|2022-03-01 18:43:35 -0600|noreply@github.com|Merge branch 'main' into multiserver
+b75fe21|2022-03-01 18:23:16 -0600|gautamgxtv@gmail.com|ready
+21f224f|2022-03-01 17:40:28 -0600|gautamgxtv@gmail.com|test test
+8a92212|2022-02-28 20:20:12 -0600|gautamgxtv@gmail.com|e
+fd9b475|2022-02-28 20:14:22 -0600|gautamgxtv@gmail.com|e
+4900b75|2022-03-01 00:11:15 +0000|66850133+codergautam@users.noreply.github.com|no more cors
+8a65877|2022-02-28 18:06:04 -0600|gautamgxtv@gmail.com|fg
+924461a|2022-02-28 17:59:24 -0600|gautamgxtv@gmail.com|fg
+2be5d83|2022-02-28 17:38:20 -0600|noreply@github.com|Merge pull request #81 from codergautam/cursorcolor
+1f860cd|2022-02-28 17:38:04 -0600|gautamgxtv@gmail.com|crosshair
+a408aa7|2022-02-28 17:36:43 -0600|gautamgxtv@gmail.com|crosshair
+dbbc8b8|2022-02-28 17:20:48 -0600|gautamgxtv@gmail.com|p
+e234fa7|2022-02-28 17:18:56 -0600|gautamgxtv@gmail.com|R
+6ffa672|2022-02-28 17:13:40 -0600|gautamgxtv@gmail.com|p
+8d04b96|2022-02-28 16:12:17 -0600|gautamgxtv@gmail.com|merge
+8b6487c|2022-02-28 16:10:43 -0600|gautamgxtv@gmail.com|Merge branch 'multiserver' of https://github.com/codergautam/sword.io
+4d10e8b|2022-02-28 16:10:24 -0600|gautamgxtv@gmail.com|Reduce chest spawn
+008b76b|2022-02-28 20:50:52 +0000|66850133+codergautam@users.noreply.github.com|cvbn
+7f50a99|2022-02-28 20:36:05 +0000|66850133+codergautam@users.noreply.github.com|test
+0e7a869|2022-02-26 22:06:57 -0600|gautamgxtv@gmail.com|ui improvements
+65b3e15|2022-02-25 21:40:46 -0600|gautamgxtv@gmail.com|w
+43916de|2022-02-23 23:18:48 +0000|66850133+codergautam@users.noreply.github.com|s
+c518436|2022-02-23 17:11:09 -0600|gautamgxtv@gmail.com|Syntax + Build
+06ceb7b|2022-02-23 17:10:10 -0600|noreply@github.com|Merge pull request #80 from codergautam/shop
+7930ce7|2022-02-23 17:10:01 -0600|noreply@github.com|Merge branch 'main' into shop
+87c68fa|2022-02-23 17:08:09 -0600|gautamgxtv@gmail.com|improvements
+3eef56e|2022-02-23 21:04:53 +0000|66850133+codergautam@users.noreply.github.com|bug fix
+5f36288|2022-02-22 18:37:31 -0600|gautamgxtv@gmail.com|work
+c91614a|2022-02-21 18:08:50 -0600|gautamgxtv@gmail.com|balance pvp
+e1411c0|2022-02-21 18:00:23 -0600|gautamgxtv@gmail.com|balance pvp
+b4c0576|2022-02-20 19:02:51 -0600|gautamgxtv@gmail.com|title fix test
+fa40f74|2022-02-20 18:26:17 -0600|gautamgxtv@gmail.com|remove fullscreen
+61b38ce|2022-02-20 15:35:52 -0600|gautamgxtv@gmail.com|Merge branch 'main' of https://github.com/codergautam/sword.io
+8f09444|2022-02-20 15:03:30 -0600|noreply@github.com|Improve PWA Experience
+dd795db|2022-02-20 14:17:06 -0600|gautamgxtv@gmail.com|t
+facd26d|2022-02-20 12:59:05 -0600|gautamgxtv@gmail.com|pvp balance + zoom improve + particle fix
+e735ee9|2022-02-20 11:13:49 -0600|gautamgxtv@gmail.com|t
+0bafb00|2022-02-20 11:07:52 -0600|gautamgxtv@gmail.com|improvements
+c5a637b|2022-02-19 20:38:01 -0600|noreply@github.com|MAJOR Bug fixes + improved loader
+dd9aec5|2022-02-19 20:37:30 -0600|gautamgxtv@gmail.com|MAJOR Bug fixes + improved loader
+738dda6|2022-02-19 18:52:10 -0600|noreply@github.com|Merge pull request #76 from codergautam/chest
+bec46b7|2022-02-19 18:51:52 -0600|gautamgxtv@gmail.com|Chests
+5d64cda|2022-02-19 18:50:54 -0600|noreply@github.com|Merge pull request #75 from codergautam/chest
+4f152e0|2022-02-19 18:50:30 -0600|gautamgxtv@gmail.com|Chests
+5668e91|2022-02-19 14:05:52 -0600|noreply@github.com|Merge pull request #74 from codergautam/mousemove
+d3568d8|2022-02-19 14:04:59 -0600|gautamgxtv@gmail.com|Merge branch 'main' of https://github.com/codergautam/sword.io into mousemove
+a1f3120|2022-02-19 14:04:52 -0600|gautamgxtv@gmail.com|change text
+765dbc1|2022-02-19 14:03:43 -0600|gautamgxtv@gmail.com|change text
+a4f2c42|2022-02-19 13:26:36 -0600|noreply@github.com|Merge pull request #73 from codergautam/mousemove
+77ce987|2022-02-19 13:25:48 -0600|gautamgxtv@gmail.com|improve physics
+3a36350|2022-02-19 13:06:18 -0600|gautamgxtv@gmail.com|Merge branch 'mousemove' of https://github.com/codergautam/sword.io into mousemove
+7269c9d|2022-02-19 19:05:57 +0000|66850133+codergautam@users.noreply.github.com|test
+235541e|2022-02-18 21:01:43 -0600|gautamgxtv@gmail.com|fix
+f1f4267|2022-02-18 20:45:28 -0600|noreply@github.com|Merge pull request #71 from codergautam/mousemove
+132bc6c|2022-02-18 20:45:12 -0600|noreply@github.com|Merge pull request #72 from codergautam/revert-70-revert-69-mousemove
+d02b8fd|2022-02-18 20:44:57 -0600|noreply@github.com|Revert "Revert "Mousemove""
+e3fd8e5|2022-02-19 02:02:34 +0000|66850133+codergautam@users.noreply.github.com|Fix mobile
+077597f|2022-02-18 13:51:33 -0600|noreply@github.com|Merge pull request #70 from codergautam/revert-69-mousemove
+e65f337|2022-02-18 13:50:52 -0600|noreply@github.com|Revert "Mousemove"
+d00165c|2022-02-18 13:20:46 -0600|noreply@github.com|Merge pull request #69 from codergautam/mousemove
+7a7aadf|2022-02-18 19:20:04 +0000|66850133+codergautam@users.noreply.github.com|New movement
+dd047a0|2022-02-17 21:31:31 -0600|gautamgxtv@gmail.com|work
+47d23b4|2022-02-17 22:35:58 +0000|66850133+codergautam@users.noreply.github.com|working
+2fe425c|2022-02-16 21:20:55 -0600|noreply@github.com|Merge pull request #67 from FishyMine/patch-9
+32c8242|2022-02-16 21:20:23 -0600|noreply@github.com|Merge pull request #68 from codergautam/pwa
+aeefe8a|2022-02-17 03:19:55 +0000|66850133+codergautam@users.noreply.github.com|PWA is done
+2e983e8|2022-02-16 20:35:53 -0600|gautamgxtv@gmail.com|pwa test
+7fd3595|2022-02-16 20:11:36 -0600|gautamgxtv@gmail.com|ui improvements
+d7b3da9|2022-02-16 18:14:24 -0600|gautamgxtv@gmail.com|improvement
+88f5dda|2022-02-16 18:11:47 -0600|gautamgxtv@gmail.com|improvements
+140b9c6|2022-02-16 22:19:15 +0000|66850133+codergautam@users.noreply.github.com|new playagain button
+cb5b84a|2022-02-15 18:56:51 -0600|noreply@github.com|Remove fps lock
+0725e11|2022-02-15 18:30:44 -0600|gautamgxtv@gmail.com|prevent redef func
+a1d526d|2022-02-15 18:28:32 -0600|gautamgxtv@gmail.com|new background new play again button
+df2cd85|2022-02-15 23:00:36 +0000|66850133+codergautam@users.noreply.github.com|buggy code dont use ty
+58d8332|2022-02-15 14:36:56 -0500|noreply@github.com|Create CONTRIBUTING.md
+d2596f4|2022-02-14 19:31:31 -0600|gautamgxtv@gmail.com|improve mobile support
+0812778|2022-02-14 18:31:55 -0600|noreply@github.com|Merge pull request #65 from FishyMine/patch-8
+52e3c05|2022-02-14 18:31:40 -0600|noreply@github.com|Merge branch 'main' into patch-8
+9012fd5|2022-02-14 18:30:18 -0600|gautamgxtv@gmail.com|ui improvements
+82d950d|2022-02-14 18:29:20 -0600|gautamgxtv@gmail.com|ui improvements
+3335d37|2022-02-14 17:45:12 -0600|gautamgxtv@gmail.com|new buttons ty smiley
+79ed978|2022-02-14 18:26:52 -0500|noreply@github.com|Clean buttons for signup.html
+4a7eabd|2022-02-14 16:38:25 -0600|noreply@github.com|Merge pull request #63 from FishyMine/patch-6
+693a67c|2022-02-14 14:38:46 -0500|noreply@github.com|Little bit cleaner buttons
+b2d2950|2022-02-13 15:57:21 -0600|gautamgxtv@gmail.com|text
+2aa6980|2022-02-13 15:42:43 -0600|gautamgxtv@gmail.com|text
+325b614|2022-02-13 13:29:47 -0600|gautamgxtv@gmail.com|remove alert
+9c02fce|2022-02-13 13:29:35 -0600|gautamgxtv@gmail.com|remove alert
+c723d5a|2022-02-13 13:19:30 -0600|gautamgxtv@gmail.com|prod ready
+b1b4b94|2022-02-13 13:09:28 -0600|noreply@github.com|Merge pull request #62 from codergautam/login
+f52d91d|2022-02-13 13:04:31 -0600|gautamgxtv@gmail.com|Merge branch 'main' of https://github.com/codergautam/sword.io into login
+f168c2f|2022-02-13 13:04:21 -0600|gautamgxtv@gmail.com|Collision bug fix + lb improved
+e1fe9e4|2022-02-12 19:39:49 -0600|noreply@github.com|Don’t limit lb when fetching user
+8d307dd|2022-02-12 19:30:57 -0600|noreply@github.com|Update user.ejs
+0e6ad62|2022-02-12 23:00:02 +0000|66850133+codergautam@users.noreply.github.com|Support old nodejs ver
+03b6f6a|2022-02-12 15:06:55 -0600|noreply@github.com|LOGIN SYSTEM AAAA
+21535fe|2022-02-12 15:06:33 -0600|noreply@github.com|Merge branch 'main' into login
+b2b4e53|2022-02-12 15:04:58 -0600|gautamgxtv@gmail.com|finish login + bug fixes
+9016cb3|2022-02-12 09:33:42 -0600|gautamgxtv@gmail.com|redesign ui
+e93aba2|2022-02-09 22:06:44 -0600|gautamgxtv@gmail.com|progress
+b75f96f|2022-02-08 15:08:00 +0000|66850133+codergautam@users.noreply.github.com|better leaderboard ordering
+277eb46|2022-01-31 18:48:37 -0600|gautamgxtv@gmail.com|shoe skin
+4ee06de|2022-01-31 18:02:49 -0600|gautamgxtv@gmail.com|login wip
+571541f|2022-01-28 14:42:00 -0600|noreply@github.com|Update README.md
+f43340f|2022-01-26 17:02:04 -0600|codergautam@Coders-Air.local|bug fix
+c4f52ae|2022-01-26 16:49:34 -0600|codergautam@Coders-Air.local|improve ui
+ea20780|2022-01-26 12:46:56 -0600|codergautam@Coders-Air.local|Revert "Ad Message Test"
+937fa8d|2022-01-26 12:43:59 -0600|codergautam@Coders-Air.local|Ad Message Test
+658fcca|2022-01-26 12:32:01 -0600|codergautam@Coders-Air.local|Prevent AI players in DB
+67df248|2022-01-26 11:38:49 -0600|codergautam@Coders-Air.local|Improved Leaderboard + More Coins
+7eaaa7d|2022-01-25 21:05:06 -0600|codergautam@Coders-Air.local|Ad ads back, pending review
+7808d1d|2022-01-25 12:08:22 -0600|codergautam@Coders-Air.local|aliases
+ff77a06|2022-01-25 12:02:55 -0600|codergautam@Coders-Air.local|2 more skins
+e313ec6|2022-01-15 09:23:51 -0600|gautamgxtv@gmail.com|Restrict CoderGautamYT Skin
+475c5a9|2022-01-11 23:49:58 +0000|66850133+codergautam@users.noreply.github.com|Sync
+c33143f|2022-01-10 12:18:09 -0600|noreply@github.com|Remove Status
+4a0359d|2022-01-10 12:17:14 -0600|noreply@github.com|Merge pull request #60 from Justman10000/patch-8
+a064f60|2022-01-10 12:17:01 -0600|noreply@github.com|Merge pull request #59 from Justman10000/patch-7
+ce5d3ee|2021-12-24 20:04:26 +0100|noreply@github.com|GitHub added, additional formatting
+edb7f61|2021-12-24 19:54:34 +0100|noreply@github.com|Formatting
+8db5ba6|2021-12-24 15:34:16 +0000|66850133+codergautam@users.noreply.github.com|need more content remove ads for now
+adf8edc|2021-12-23 21:59:50 -0600|gautamgxtv@gmail.com|LESS ADS
+9e53dbd|2021-12-23 21:05:31 -0600|gautamgxtv@gmail.com|reduce
+90ba175|2021-12-23 20:21:50 -0600|gautamgxtv@gmail.com|reduce ads
+b34b158|2021-12-23 13:44:03 -0600|gautamgxtv@gmail.com|Cool log
+d75884b|2021-12-23 19:27:48 +0000|66850133+codergautam@users.noreply.github.com|Fix bug with ads
+c3612f3|2021-12-23 19:17:09 +0000|66850133+codergautam@users.noreply.github.com|Fix Controls Page
+3d51bc2|2021-12-23 12:53:07 -0600|noreply@github.com|Move english first
+0e7a3f1|2021-12-23 12:52:21 -0600|noreply@github.com|Merge pull request #58 from Justman10000/patch-6
+3c1171c|2021-12-23 12:52:08 -0600|noreply@github.com|Merge branch 'main' into patch-6
+aeba318|2021-12-23 12:50:28 -0600|noreply@github.com|Merge pull request #56 from DillonB07/main
+24b930b|2021-12-23 17:33:59 +0100|noreply@github.com|Spell correction and formatting
+4c165c4|2021-12-23 17:28:26 +0100|noreply@github.com|Extension
+9f25c11|2021-12-23 17:25:37 +0100|noreply@github.com|Explanation of the game
+7c65e31|2021-12-22 18:28:55 -0600|gautamgxtv@gmail.com|Fix
+62e4fd7|2021-12-22 18:28:36 -0600|gautamgxtv@gmail.com|Fix Ads
+bfb0aa2|2021-12-22 18:12:02 -0600|gautamgxtv@gmail.com|reduce ads
+6a3f94c|2021-12-22 17:57:24 -0600|gautamgxtv@gmail.com|build
+2f91c12|2021-12-22 17:56:05 -0600|noreply@github.com|Merge pull request #57 from codergautam/adtest
+80554e3|2021-12-22 17:55:20 -0600|gautamgxtv@gmail.com|Adsgit add .
+3cc5d79|2021-12-22 16:12:58 -0600|gautamgxtv@gmail.com|test
+1784d52|2021-12-21 19:30:49 +0000|83948303+DillonB07@users.noreply.github.com|Format HTML
+638422e|2021-12-21 19:30:30 +0000|83948303+DillonB07@users.noreply.github.com|Add how to play pages
+9612f20|2021-12-21 18:58:12 +0000|noreply@github.com|Add link to how to play
+431ae56|2021-12-12 16:23:34 -0600|gautamgxtv@gmail.com|Merge branch 'main' of https://github.com/codergautam/sword.io
+d573e8e|2021-12-12 16:23:22 -0600|gautamgxtv@gmail.com|Glitch kill fix + bug fix
+1c2d740|2021-12-11 21:54:33 +0000|66850133+codergautam@users.noreply.github.com|stuff
+769228c|2021-12-11 15:52:25 -0600|gautamgxtv@gmail.com|Remove client log spam, leaderboard improved
+efac35e|2021-12-08 16:23:17 -0600|gautamgxtv@gmail.com|fix
+94a0cd6|2021-12-08 14:08:15 -0600|gautamgxtv@gmail.com|git add
+cb78370|2021-12-08 13:59:26 -0600|gautamgxtv@gmail.com|title fix + leaderboard
+3a09542|2021-12-08 00:58:03 +0000|66850133+codergautam@users.noreply.github.com|gg
+5e1ae44|2021-12-07 03:24:44 +0000|66850133+codergautam@users.noreply.github.com|fix
+6538b5f|2021-12-07 02:35:37 +0000|66850133+codergautam@users.noreply.github.com|fix
+21e5d75|2021-12-06 20:20:49 -0600|gautamgxtv@gmail.com|update
+aec6d17|2021-12-06 19:10:41 -0600|gautamgxtv@gmail.com|cooldown
+15ce5b3|2021-12-06 17:47:10 -0600|noreply@github.com|Merge pull request #54 from Makonede/main
+544b3fc|2021-12-06 12:15:16 -0800|noreply@github.com|Make hit particles fit the game better
+1cb04f7|2021-12-05 11:12:15 -0600|gautamgxtv@gmail.com|footer
+96c613b|2021-12-04 19:37:36 -0600|gautamgxtv@gmail.com|update
+b5250e4|2021-12-04 17:56:57 -0600|gautamgxtv@gmail.com|fix devil
+6e6c54d|2021-12-04 14:04:09 -0600|gautamgxtv@gmail.com|particle + text fix
+e31bd28|2021-12-03 22:23:38 +0000|66850133+codergautam@users.noreply.github.com|Fix captcha load bug
+ee3917b|2021-12-02 06:50:35 -0600|gautamgxtv@gmail.com|levelstatetext
+b031d18|2021-11-29 20:49:34 -0600|gautamgxtv@gmail.com|test
+3d99fd1|2021-11-29 20:47:24 -0600|gautamgxtv@gmail.com|test
+4206c2d|2021-11-29 20:46:48 -0600|gautamgxtv@gmail.com|Merge branch 'main' of https://github.com/codergautam/sword.io
+9a51057|2021-11-29 20:46:34 -0600|gautamgxtv@gmail.com|test
+2c2ce2b|2021-11-29 20:43:36 -0600|66850133+codergautam@users.noreply.github.com|Add or update the Azure App Service build and deployment workflow config
+bcaff83|2021-11-29 17:34:40 -0600|gautamgxtv@gmail.com|ssl v2
+818e049|2021-11-28 17:19:25 -0600|gautamgxtv@gmail.com|revert
+f132d4f|2021-11-28 16:48:28 -0600|gautamgxtv@gmail.com|prod
+fe4388b|2021-11-28 16:45:24 -0600|gautamgxtv@gmail.com|fs
+43a128b|2021-11-28 16:43:00 -0600|gautamgxtv@gmail.com|ssl
+4ead465|2021-11-28 09:58:31 -0600|gautamgxtv@gmail.com|aaah
+b623123|2021-11-28 09:56:47 -0600|gautamgxtv@gmail.com|image
+7b0d725|2021-11-27 17:34:51 -0600|gautamgxtv@gmail.com|ui
+89d9705|2021-11-27 15:57:34 -0600|gautamgxtv@gmail.com|test
+2fe5f2d|2021-11-26 16:57:50 -0600|gautamgxtv@gmail.com|recaptcha
+c88bbc0|2021-11-26 16:15:23 -0600|gautamgxtv@gmail.com|cool update
+c43645b|2021-11-26 09:48:40 -0600|gautamgxtv@gmail.com|dynamic joystick
+5742395|2021-11-26 09:17:45 -0600|gautamgxtv@gmail.com|ooh canvas
+8a569d6|2021-11-25 21:49:56 -0600|gautamgxtv@gmail.com|ooh canvas
+ba6323c|2021-11-25 14:25:37 -0600|gautamgxtv@gmail.com|stuf
+0956ad2|2021-11-24 16:55:06 -0600|gautamgxtv@gmail.com|Level system beta
+5fb2103|2021-11-24 09:36:40 -0600|gautamgxtv@gmail.com|Responsive Minimap
+6040aed|2021-11-24 09:33:02 -0600|gautamgxtv@gmail.com|d
+191f2d4|2021-11-24 09:29:55 -0600|gautamgxtv@gmail.com|d
+822dc24|2021-11-24 09:28:41 -0600|gautamgxtv@gmail.com|d
+c2b3204|2021-11-24 09:26:13 -0600|gautamgxtv@gmail.com|d
+68603e8|2021-11-24 09:22:40 -0600|gautamgxtv@gmail.com|d
+527fb99|2021-11-24 09:21:01 -0600|gautamgxtv@gmail.com|Nerf AI
+a27791d|2021-11-23 21:26:34 -0600|gautamgxtv@gmail.com|work
+d884c05|2021-11-23 18:24:03 -0600|gautamgxtv@gmail.com|sbdhf
+12d34ba|2021-11-23 18:20:06 -0600|gautamgxtv@gmail.com|sbdhf
+e4a58a4|2021-11-23 18:18:56 -0600|gautamgxtv@gmail.com|sbdhf
+d37b132|2021-11-23 18:18:04 -0600|gautamgxtv@gmail.com|sbdhf
+008bb37|2021-11-22 22:23:54 -0600|gautamgxtv@gmail.com|Better webpack + Joshua homescreen
+e842380|2021-11-22 19:21:23 +0000|66850133+codergautam@users.noreply.github.com|proxy
+c6b5fa5|2021-11-21 20:16:59 -0600|gautamgxtv@gmail.com|analytics
+e8b8fc9|2021-11-21 10:55:17 -0600|gautamgxtv@gmail.com|lag fix
+d9ca5ac|2021-11-20 16:35:53 -0600|gautamgxtv@gmail.com|Webgl fix, securityError fix, promo update
+686adf7|2021-11-20 16:21:04 -0600|gautamgxtv@gmail.com|Merge branch 'main' of https://github.com/codergautam/sword.io
+3f94050|2021-11-19 20:33:00 +0000|66850133+codergautam@users.noreply.github.com|dfghjk
+d9cb546|2021-11-19 14:27:14 -0600|noreply@github.com|Merge pull request #51 from codergautam/testetevdfghj
+d1c24c8|2021-11-19 20:26:07 +0000|66850133+codergautam@users.noreply.github.com|dfghj
+32eb0e4|2021-11-19 20:21:15 +0000|66850133+codergautam@users.noreply.github.com|for
+c56d480|2021-11-18 10:10:51 -0600|noreply@github.com|Fix recaptcha Knotbot
+ffd3a9a|2021-11-17 16:46:54 -0600|gautamgxtv@gmail.com|Revert "Merge branch 'nextdev' of https://github.com/codergautam/sword.io"
+cfef01c|2021-11-17 16:44:29 -0600|gautamgxtv@gmail.com|Merge branch 'nextdev' of https://github.com/codergautam/sword.io
+b2e09de|2021-11-17 22:43:35 +0000|66850133+codergautam@users.noreply.github.com|sdfghj
+60040c4|2021-11-17 13:27:49 -0600|noreply@github.com|Fix ban system
+403c71b|2021-11-17 13:18:22 -0600|noreply@github.com|Update moderation.js
+02b1316|2021-11-17 13:16:14 -0600|noreply@github.com|Update moderation.js
+7c227c8|2021-11-17 17:37:19 +0000|66850133+codergautam@users.noreply.github.com|sdfghjk
+9fb4435|2021-11-17 17:27:12 +0000|66850133+codergautam@users.noreply.github.com|cvbnm
+a1ecb21|2021-11-17 17:24:16 +0000|66850133+codergautam@users.noreply.github.com|SLOWWW
+7087c60|2021-11-17 17:23:43 +0000|66850133+codergautam@users.noreply.github.com|WRONG BRANCH
+9c7405b|2021-11-17 17:18:54 +0000|66850133+codergautam@users.noreply.github.com|slowww
+bbe3759|2021-11-16 21:08:51 -0600|gautamgxtv@gmail.com|discord promo
+1b1decd|2021-11-16 18:41:29 -0600|gautamgxtv@gmail.com|proportions
+532e862|2021-11-16 18:07:58 -0600|gautamgxtv@gmail.com|merge with main
+c58a7fb|2021-11-16 09:26:49 -0600|noreply@github.com|Better damage calc
+492b961|2021-11-16 08:15:09 -0600|noreply@github.com|Update Player.js
+7133f9f|2021-11-15 21:36:23 -0600|noreply@github.com|Whoops
+0c5c966|2021-11-15 21:18:27 -0600|noreply@github.com|Lower ai player count
+8c908eb|2021-11-15 20:32:45 -0600|gautamgxtv@gmail.com|better coins + async
+b92564c|2021-11-15 12:33:17 -0600|noreply@github.com|Update Player.js
+8f55129|2021-11-14 18:18:40 -0600|gautamgxtv@gmail.com|hmm
+d554e6d|2021-11-14 17:54:00 -0600|gautamgxtv@gmail.com|test
+0f57cdf|2021-11-14 10:42:03 -0600|gautamgxtv@gmail.com|Minimap fix proportions
+08e8d64|2021-11-13 21:06:39 -0600|gautamgxtv@gmail.com|balance
+16dc187|2021-11-13 20:58:28 -0600|gautamgxtv@gmail.com|stuff
+daabd69|2021-11-13 11:53:44 -0600|gautamgxtv@gmail.com|test
+9090462|2021-11-13 11:51:25 -0600|gautamgxtv@gmail.com|test
+80ed284|2021-11-12 20:42:14 -0600|gautamgxtv@gmail.com|git add
+926643d|2021-11-12 20:38:41 -0600|gautamgxtv@gmail.com|losing health when collect coins
+dea2c42|2021-11-12 20:14:25 -0600|gautamgxtv@gmail.com|player rotate
+cec6749|2021-11-12 19:20:05 -0600|gautamgxtv@gmail.com|Skins test
+b446f7b|2021-11-11 14:58:34 +0000|66850133+codergautam@users.noreply.github.com|better antiswear
+c04b390|2021-11-10 18:32:06 +0000|66850133+codergautam@users.noreply.github.com|j
+829e36f|2021-11-09 23:38:30 +0000|66850133+codergautam@users.noreply.github.com|repl
+f56cc17|2021-11-09 17:23:49 -0600|noreply@github.com|Update Player.js
+dab6128|2021-11-09 22:57:18 +0000|66850133+codergautam@users.noreply.github.com|ggd
+bee1d9b|2021-11-07 20:29:34 -0600|gautamgxtv@gmail.com|Stable
+c162bef|2021-11-05 18:18:04 -0500|noreply@github.com|not yet..
+921bad8|2021-11-05 15:01:46 -0500|noreply@github.com|Ads huh
+6036173|2021-11-05 10:25:49 -0500|gautamgxtv@gmail.com|speed counter
+7f09030|2021-11-05 09:52:02 -0500|gautamgxtv@gmail.com|more names done
+98ad725|2021-11-05 09:34:14 -0500|gautamgxtv@gmail.com|more names nice
+a83ae11|2021-11-05 09:12:21 -0500|gautamgxtv@gmail.com|build
+5cae31c|2021-11-05 07:10:14 -0700|noreply@github.com|Merge pull request #46 from codergautam/next
+befed89|2021-11-05 07:10:02 -0700|noreply@github.com|Merge branch 'master' into next
+0079b3a|2021-11-05 09:01:26 -0500|gautamgxtv@gmail.com|ai bots v1
+78fe621|2021-11-04 19:24:04 -0500|gautamgxtv@gmail.com|clamp
+aef4d1e|2021-11-04 19:13:23 -0500|gautamgxtv@gmail.com|better bots
+3bd96d6|2021-11-04 19:57:35 +0000|66850133+codergautam@users.noreply.github.com|ckv
+5056e20|2021-11-04 19:53:19 +0000|66850133+codergautam@users.noreply.github.com|l
+282688e|2021-11-04 19:50:24 +0000|66850133+codergautam@users.noreply.github.com|c
+7712b09|2021-11-04 19:45:54 +0000|66850133+codergautam@users.noreply.github.com|d
+907f6d4|2021-11-04 19:40:45 +0000|66850133+codergautam@users.noreply.github.com|k
+f0272ff|2021-11-04 19:37:31 +0000|66850133+codergautam@users.noreply.github.com|kkk
+2b0a782|2021-11-04 19:35:09 +0000|66850133+codergautam@users.noreply.github.com|l
+322385b|2021-11-04 18:20:15 +0000|66850133+codergautam@users.noreply.github.com|pogf
+4257cbe|2021-11-04 17:59:38 +0000|66850133+codergautam@users.noreply.github.com|vod
+79a7c5d|2021-11-04 17:57:39 +0000|66850133+codergautam@users.noreply.github.com|ds
+f5189c1|2021-11-04 17:56:46 +0000|66850133+codergautam@users.noreply.github.com|d,sfgh
+923efa5|2021-11-04 17:37:11 +0000|66850133+codergautam@users.noreply.github.com|fucsosdssdfg
+6996c14|2021-11-04 16:49:57 +0000|66850133+codergautam@users.noreply.github.com|ifjakdg
+1cf1ea0|2021-11-04 14:59:33 +0000|66850133+codergautam@users.noreply.github.com|yayayyhgdhdgddssa
+bcae3e7|2021-11-03 22:22:52 -0500|gautamgxtv@gmail.com|Try deadAi method
+1254d6d|2021-11-03 21:56:27 -0500|gautamgxtv@gmail.com|Anti swear
+2be07d0|2021-11-03 19:52:50 +0000|66850133+codergautam@users.noreply.github.com|sdf
+ac664b2|2021-11-03 19:49:01 +0000|66850133+codergautam@users.noreply.github.com|vdhj
+ff1df2f|2021-11-03 19:40:18 +0000|66850133+codergautam@users.noreply.github.com|j
+4fa4a76|2021-11-03 19:35:53 +0000|66850133+codergautam@users.noreply.github.com|player follow?
+bf99f65|2021-11-03 19:23:14 +0000|66850133+codergautam@users.noreply.github.com|hu
+ecdc5e1|2021-11-03 18:19:14 +0000|66850133+codergautam@users.noreply.github.com|j
+f931831|2021-11-03 17:58:59 +0000|66850133+codergautam@users.noreply.github.com|d
+2993bcc|2021-11-03 17:58:23 +0000|66850133+codergautam@users.noreply.github.com|a
+ae70d7b|2021-11-03 17:56:24 +0000|66850133+codergautam@users.noreply.github.com|cddf
+e9ae3b7|2021-11-03 17:55:15 +0000|66850133+codergautam@users.noreply.github.com|d
+678c15c|2021-11-03 17:52:29 +0000|66850133+codergautam@users.noreply.github.com|s
+2eb38d3|2021-11-03 17:48:37 +0000|66850133+codergautam@users.noreply.github.com|mvoement fix
+1cd28ef|2021-11-03 17:44:10 +0000|66850133+codergautam@users.noreply.github.com|coin not coins
+ee8822c|2021-11-03 17:41:49 +0000|66850133+codergautam@users.noreply.github.com|coin
+bd257b6|2021-11-03 17:40:04 +0000|66850133+codergautam@users.noreply.github.com|ckjcifd
+72943ba|2021-11-03 17:27:17 +0000|66850133+codergautam@users.noreply.github.com|r is not defined
+3efccc0|2021-11-03 17:25:24 +0000|66850133+codergautam@users.noreply.github.com|test
+fa8e1f6|2021-11-03 17:19:36 +0000|66850133+codergautam@users.noreply.github.com|sus
+0fba59a|2021-11-03 17:17:11 +0000|66850133+codergautam@users.noreply.github.com|bap
+17bec7f|2021-11-03 17:12:24 +0000|66850133+codergautam@users.noreply.github.com|work
+81dcec3|2021-11-03 14:56:28 +0000|66850133+codergautam@users.noreply.github.com|clamp is not defined
+3959fa1|2021-11-03 14:54:16 +0000|66850133+codergautam@users.noreply.github.com|player is not defined
+a1ed1eb|2021-11-03 14:52:48 +0000|66850133+codergautam@users.noreply.github.com|socket is not defined
+7ecb1de|2021-11-03 14:46:16 +0000|66850133+codergautam@users.noreply.github.com|recaptcha var
+3b1a14e|2021-11-03 08:23:59 -0500|noreply@github.com|Fix angle undefined bug
+dfe049c|2021-11-03 07:06:21 -0500|gautamgxtv@gmail.com|fix join not sending
+1cf84d0|2021-11-02 21:57:56 -0500|gautamgxtv@gmail.com|Merge branch 'next' of https://github.com/codergautam/sword.io into next
+dc28483|2021-11-02 21:53:50 -0500|gautamgxtv@gmail.com|less lag
+1fd648e|2021-11-02 19:58:09 +0000|66850133+codergautam@users.noreply.github.com|revert!!!!
+11ca3b6|2021-11-02 18:12:32 +0000|66850133+codergautam@users.noreply.github.com|s
+0e08e55|2021-11-02 18:09:36 +0000|66850133+codergautam@users.noreply.github.com|asset not working sus
+5a3706e|2021-11-02 18:02:29 +0000|66850133+codergautam@users.noreply.github.com|abort!!!
+10e9e62|2021-11-02 17:54:18 +0000|66850133+codergautam@users.noreply.github.com|same-origin
+47411f9|2021-11-02 17:37:47 +0000|66850133+codergautam@users.noreply.github.com|new asset sending
+63b04bc|2021-11-02 17:27:46 +0000|66850133+codergautam@users.noreply.github.com|verceltest
+8272ee3|2021-11-02 13:24:45 +0000|66850133+codergautam@users.noreply.github.com|angle undefined fix
+e879c4e|2021-11-01 19:57:59 -0500|gautamgxtv@gmail.com|Basic AI Bots (they dont move)
+4ae356a|2021-11-01 09:49:24 -0500|gautamgxtv@gmail.com|1 file modified
+e104a28|2021-11-01 09:49:24 -0500|gautamgxtv@gmail.com|1 file modified
+0f80dc3|2021-11-01 09:32:40 -0500|gautamgxtv@gmail.com|1 file modified
+803310c|2021-11-01 09:32:40 -0500|gautamgxtv@gmail.com|1 file modified
+d20ca56|2021-11-01 09:10:12 -0500|gautamgxtv@gmail.com|xf
+bf05b54|2021-11-01 09:09:31 -0500|gautamgxtv@gmail.com|u
+eeee3aa|2021-11-01 09:05:42 -0500|gautamgxtv@gmail.com|3 files modified, 2 added
+06d4d50|2021-11-01 09:05:42 -0500|gautamgxtv@gmail.com|3 files modified, 2 added
+26f6dea|2021-10-31 21:33:29 -0500|gautamgxtv@gmail.com|ios compatible
+633cd98|2021-10-31 19:57:47 -0500|gautamgxtv@gmail.com|minor bug fixes
+6ad834a|2021-10-31 16:24:52 -0500|gautamgxtv@gmail.com|go
+782366e|2021-10-31 16:23:53 -0500|gautamgxtv@gmail.com|tablet
+7569583|2021-10-31 16:23:32 -0500|gautamgxtv@gmail.com|tablet
+85881ba|2021-10-31 16:19:54 -0500|gautamgxtv@gmail.com|debug take my code
+3717bef|2021-10-31 16:10:17 -0500|gautamgxtv@gmail.com|bug fixes/anim improvements
+9bca3e0|2021-10-31 15:40:28 -0500|gautamgxtv@gmail.com|fix
+56116cf|2021-10-31 15:03:58 -0500|gautamgxtv@gmail.com|improvements/basic mobile support
+3c50386|2021-10-31 12:25:39 -0500|gautamgxtv@gmail.com|hide captcha ingame
+ce118db|2021-10-31 11:15:29 -0500|gautamgxtv@gmail.com|bugfix
+ba50455|2021-10-31 10:49:06 -0500|gautamgxtv@gmail.com|Captchanpx webpack
+3327353|2021-10-31 09:29:52 -0500|gautamgxtv@gmail.com|fix
+a899c8d|2021-10-30 20:05:46 -0500|gautamgxtv@gmail.com|f
+ff10ca8|2021-10-30 19:42:46 -0500|gautamgxtv@gmail.com|f
+49c12b0|2021-10-30 19:39:51 -0500|gautamgxtv@gmail.com|stuff
+f7726b7|2021-10-30 17:14:01 -0500|gautamgxtv@gmail.com|leak
+69a9e1b|2021-10-30 15:54:04 -0500|gautamgxtv@gmail.com|b
+b780627|2021-10-30 12:28:58 -0500|gautamgxtv@gmail.com|ban improvement
+19ec5e6|2021-10-29 22:20:48 -0500|gautamgxtv@gmail.com|cli upd
+d027f20|2021-10-29 22:20:34 -0500|gautamgxtv@gmail.com|update anticheat
+78b6297|2021-10-29 21:25:17 -0500|gautamgxtv@gmail.com|vpn check v
+8797176|2021-10-29 21:22:26 -0500|gautamgxtv@gmail.com|vpn check v
+afa1706|2021-10-29 20:40:41 -0500|gautamgxtv@gmail.com|vpn check v
+a730fa0|2021-10-29 20:12:31 -0500|gautamgxtv@gmail.com|Cors Enabled server
+11d7041|2021-10-29 20:06:08 -0500|gautamgxtv@gmail.com|Stupid hackers
+89c7a59|2021-10-29 20:03:18 -0500|gautamgxtv@gmail.com|Stupid hackers
+ac5fa27|2021-10-29 20:00:35 -0500|gautamgxtv@gmail.com|Stupid hackers
+1765884|2021-10-29 19:49:34 -0500|gautamgxtv@gmail.com|Stupid hackers
+77de6f3|2021-10-29 19:41:49 -0500|gautamgxtv@gmail.com|Stupid hackers
+02db47f|2021-10-29 19:08:16 -0500|gautamgxtv@gmail.com|Uptime
+cc1d275|2021-10-29 18:50:28 -0500|gautamgxtv@gmail.com|heroku
+9b7b8e7|2021-10-29 18:11:00 -0500|gautamgxtv@gmail.com|Stupid hackers
+a1a1ff1|2021-10-29 18:05:46 -0500|gautamgxtv@gmail.com|Stupid hackers
+c32a980|2021-10-29 18:05:34 -0500|gautamgxtv@gmail.com|Stupid hackers
+bce5507|2021-10-29 17:44:23 -0500|gautamgxtv@gmail.com|Stupid hackers
+f1bc950|2021-10-29 17:33:48 -0500|gautamgxtv@gmail.com|Stupid hackers
+7dacb3f|2021-10-29 17:33:40 -0500|gautamgxtv@gmail.com|Stupid hackers
+7612fcc|2021-10-29 17:28:09 -0500|gautamgxtv@gmail.com|Stupid hackers
+3cccb10|2021-10-29 15:23:11 -0500|noreply@github.com|Update index.js
+9c94018|2021-10-29 14:57:34 -0500|noreply@github.com|Update index.js
+1e60388|2021-10-29 14:53:32 -0500|noreply@github.com|Merge pull request #45 from gautamgxtv-V3/patch-3
+a6b9e61|2021-10-29 14:52:53 -0500|noreply@github.com|More banned IPS
+4e56861|2021-10-29 14:01:06 -0500|noreply@github.com|Update index.js
+5fec242|2021-10-29 13:59:34 -0500|noreply@github.com|Update index.js
+304ee67|2021-10-29 13:58:20 -0500|noreply@github.com|Update index.js
+ca6bbe9|2021-10-29 13:57:01 -0500|noreply@github.com|Update index.js
+8d20820|2021-10-29 13:55:10 -0500|noreply@github.com|Update index.js
+5a66eef|2021-10-29 13:43:16 -0500|noreply@github.com|Update index.js
+39f9299|2021-10-29 13:40:03 -0500|noreply@github.com|Update index.js
+9db3981|2021-10-29 13:37:57 -0500|noreply@github.com|Update index.js
+719e717|2021-10-29 13:35:51 -0500|noreply@github.com|Update index.js
+8752a2a|2021-10-29 13:27:03 -0500|noreply@github.com|Update index.js
+eb0273c|2021-10-29 13:24:08 -0500|noreply@github.com|Merge pull request #44 from gautamgxtv-V3/patch-2
+9eeb876|2021-10-29 13:19:13 -0500|noreply@github.com|Update index.js
+eab3eb5|2021-10-28 19:17:43 -0500|gautamgxtv@gmail.com|spam
+3d2cccb|2021-10-28 19:14:20 -0500|gautamgxtv@gmail.com|spam
+c0c00b8|2021-10-28 17:32:42 -0500|gautamgxtv@gmail.com|heroku
+941f7f5|2021-10-28 17:32:13 -0500|gautamgxtv@gmail.com|heroku
+6042345|2021-10-28 21:32:33 +0000|66850133+codergautam@users.noreply.github.com|d
+90bd143|2021-10-28 03:21:17 +0000|66850133+codergautam@users.noreply.github.com|Final
+0fe8e24|2021-10-27 22:21:15 +0000|66850133+codergautam@users.noreply.github.com|Stable
+3df880b|2021-10-27 18:26:43 +0000|66850133+codergautam@users.noreply.github.com|Cursor
+a5686a1|2021-10-27 18:17:46 +0000|66850133+codergautam@users.noreply.github.com|Cursor
+c7063d7|2021-10-27 13:13:37 -0500|noreply@github.com|Update README.md
+2e47cb3|2021-10-27 13:13:10 -0500|noreply@github.com|Merge pull request #40 from DillonB07/master
+c90a72e|2021-10-27 18:30:09 +0100|dbarnes18@beaumontleys.leicester.sch.uk|Add custom cursor
+b7615f3|2021-10-27 15:59:01 +0000|66850133+codergautam@users.noreply.github.com|Fix clamp aaah
+782bb50|2021-10-27 01:17:52 +0000|66850133+codergautam@users.noreply.github.com|done
+432a509|2021-10-27 01:17:09 +0000|66850133+codergautam@users.noreply.github.com|done
+e0c9635|2021-10-26 20:15:10 -0500|gautamgxtv@gmail.com|fix
+1ecc19f|2021-10-27 00:53:34 +0000|66850133+codergautam@users.noreply.github.com|Final (won't change anything anymore)
+45dc9a0|2021-10-26 18:31:42 +0000|66850133+codergautam@users.noreply.github.com|spawn protection + no 1shot
+5462aec|2021-10-26 18:13:24 +0000|66850133+codergautam@users.noreply.github.com|Add readme.md
+2c0ceb4|2021-10-26 16:21:10 +0000|66850133+codergautam@users.noreply.github.com|title
+83c68bc|2021-10-26 04:32:34 +0000|66850133+codergautam@users.noreply.github.com|Fix
+5a043a3|2021-10-25 23:29:00 -0500|gautamgxtv@gmail.com|bruh
+197b8b7|2021-10-25 23:26:14 -0500|gautamgxtv@gmail.com|done i guess
+a7014b4|2021-10-25 19:53:08 -0500|gautamgxtv@gmail.com|minimap
+f8ffdd0|2021-10-25 18:26:46 -0500|gautamgxtv@gmail.com|Bug Fixes
+31ba46b|2021-10-25 17:59:45 -0500|gautamgxtv@gmail.com|Bug Fixes
+39948c6|2021-10-25 22:45:51 +0000|66850133+codergautam@users.noreply.github.com|bruh
+81ac966|2021-10-25 22:21:59 +0000|66850133+codergautam@users.noreply.github.com|school
+4774b1d|2021-10-25 21:33:07 +0000|66850133+codergautam@users.noreply.github.com|i <3 code
+8572df6|2021-10-24 22:46:26 -0500|gautamgxtv@gmail.com|fix
+11dd5c3|2021-10-25 03:30:00 +0000|66850133+codergautam@users.noreply.github.com|frick
+dd45c85|2021-10-24 21:59:46 -0500|gautamgxtv@gmail.com|Fixes
+a49ca69|2021-10-25 01:06:19 +0000|66850133+codergautam@users.noreply.github.com|fix
+97186f2|2021-10-25 00:57:53 +0000|66850133+codergautam@users.noreply.github.com|bruh
+1981454|2021-10-25 00:34:16 +0000|66850133+codergautam@users.noreply.github.com|fix coins (again)
+01bf2ad|2021-10-24 19:28:22 -0500|gautamgxtv@gmail.com|Merge branch 'master' of https://github.com/codergautam/sword.io
+dc54685|2021-10-24 19:27:56 -0500|gautamgxtv@gmail.com|Coin Collecting Fix
+03a291e|2021-10-24 19:20:00 +0000|66850133+codergautam@users.noreply.github.com|whoops
+a7778f6|2021-10-24 14:12:52 -0500|gautamgxtv@gmail.com|improvements
+7b3f512|2021-10-24 18:46:12 +0000|66850133+codergautam@users.noreply.github.com|new opening img
+186bb91|2021-10-24 13:06:41 -0500|gautamgxtv@gmail.com|When you forget to git add
+2e9ba0f|2021-10-24 13:04:17 -0500|gautamgxtv@gmail.com|Make Big People Less OP
+39b9ce6|2021-10-24 12:01:07 -0500|gautamgxtv@gmail.com|Big = slow
+a1ce836|2021-10-23 23:52:17 -0500|gautamgxtv@gmail.com|Big = more health more damage
+1e4d74f|2021-10-23 22:16:37 -0500|gautamgxtv@gmail.com|basic leaderboard
+a1f2e3a|2021-10-23 22:15:31 -0500|gautamgxtv@gmail.com|basic leaderboard
+a41fbd3|2021-10-23 21:10:08 -0500|gautamgxtv@gmail.com|Drop Coins
+78f4825|2021-10-23 18:28:33 +0000|66850133+codergautam@users.noreply.github.com|whoops
+9f675c5|2021-10-23 13:14:07 -0500|gautamgxtv@gmail.com|Nametag Size/Position
+5bfdfd0|2021-10-23 17:31:44 +0000|66850133+codergautam@users.noreply.github.com|Lag fix + lerp
+c80d297|2021-10-22 23:19:02 -0500|gautamgxtv@gmail.com|camera
+fd24893|2021-10-22 16:18:29 -0500|gautamgxtv@gmail.com|Dynamic Health bar
+02b5878|2021-10-22 09:42:26 -0500|gautamgxtv@gmail.com|Merge branch 'master' of https://github.com/codergautam/sword.io
+ed3f46f|2021-10-22 09:42:07 -0500|gautamgxtv@gmail.com|sword animation
+4e4ca84|2021-10-22 04:33:37 +0000|66850133+codergautam@users.noreply.github.com|Remove 8px eyes in player
+c81f7d0|2021-10-21 23:32:44 -0500|gautamgxtv@gmail.com|Bug Fixes, Better Collisions
+ebe9369|2021-10-22 02:42:51 +0000|66850133+codergautam@users.noreply.github.com|sync
+3cfbfbe|2021-10-21 19:02:48 -0500|gautamgxtv@gmail.com|improvements
+f905ffc|2021-10-21 17:43:02 -0500|gautamgxtv@gmail.com|forgot to git add
+f853f4f|2021-10-21 17:42:49 -0500|gautamgxtv@gmail.com|Totally not broken coins
+17ae03d|2021-10-21 15:09:17 -0500|gautamgxtv@gmail.com|Patch Hitbox Spoof
+286c8c6|2021-10-21 15:08:58 -0500|gautamgxtv@gmail.com|Patch Hitbox Spoof
+a05e432|2021-10-21 19:15:56 +0000|66850133+codergautam@users.noreply.github.com|stuff
+524a42e|2021-10-21 19:10:53 +0000|66850133+codergautam@users.noreply.github.com|Fix Movement
+ffdc48d|2021-10-21 19:06:33 +0000|66850133+codergautam@users.noreply.github.com|hm
+7f72d7e|2021-10-21 13:49:51 -0500|gautamgxtv@gmail.com|movement
+3fbd53f|2021-10-21 13:22:49 -0500|gautamgxtv@gmail.com|ok
+30ab980|2021-10-21 13:21:19 -0500|gautamgxtv@gmail.com|1/2 Fix Hitbox Spoof
+54b9cfe|2021-10-21 11:39:03 -0500|gautamgxtv@gmail.com|Fix Border Escape Hack
+964457a|2021-10-21 10:14:55 -0500|gautamgxtv@gmail.com|Basic border
+e9189f6|2021-10-21 09:51:51 -0500|gautamgxtv@gmail.com|Death Screen
+be36329|2021-10-20 23:45:40 -0500|gautamgxtv@gmail.com|Add Random Spawn
+01fb39e|2021-10-20 23:44:23 -0500|gautamgxtv@gmail.com|Add Hit Cooldown
+5870f41|2021-10-20 22:17:25 -0500|gautamgxtv@gmail.com|Test
+a48aed1|2021-10-20 17:45:56 -0500|gautamgxtv@gmail.com|Hopefully better client side prediction
+8e6b120|2021-10-20 21:29:24 +0000|66850133+codergautam@users.noreply.github.com|Basic Client Prediction
+565160b|2021-10-20 20:26:01 +0000|66850133+codergautam@users.noreply.github.com|I messed up.
+395a984|2021-10-20 19:58:11 +0000|66850133+codergautam@users.noreply.github.com|Basic Client Prediction
+9a8df0b|2021-10-20 18:06:10 +0000|66850133+codergautam@users.noreply.github.com|Less Lag
+9f35406|2021-10-20 16:55:06 +0000|66850133+codergautam@users.noreply.github.com|added kill counter
+9a05532|2021-10-20 16:27:37 +0000|66850133+codergautam@users.noreply.github.com|Player Regen
+b6ed67b|2021-10-20 14:19:54 +0000|66850133+codergautam@users.noreply.github.com|fix 2x speed diagnoly
+de03f0b|2021-10-19 19:57:29 -0500|gautamgxtv@gmail.com|Basic Name + Home Page
+ef60b6a|2021-10-19 19:57:20 +0000|66850133+codergautam@users.noreply.github.com|school's over
+95621db|2021-10-19 17:45:07 +0000|66850133+codergautam@users.noreply.github.com|Fix sword rendering resize
+5fe3c81|2021-10-19 14:41:21 +0000|66850133+codergautam@users.noreply.github.com|Round FPS
+4ced111|2021-10-19 02:36:47 +0000|66850133+codergautam@users.noreply.github.com|Fix
+020b2b1|2021-10-18 21:28:27 -0500|gautamgxtv@gmail.com|Health
+fc76bd3|2021-10-18 20:55:31 -0500|gautamgxtv@gmail.com|Working
+d2b6052|2021-10-18 20:29:06 -0500|gautamgxtv@gmail.com|uhh
+aa62e23|2021-10-18 19:40:25 -0500|gautamgxtv@gmail.com|buggy
+a871ec7|2021-10-18 18:39:33 -0500|gautamgxtv@gmail.com|Fix Sword Rendering
+6a1d1bf|2021-10-18 17:46:04 -0500|gautamgxtv@gmail.com|basic resize support
+67dbd91|2021-10-18 17:22:57 -0500|gautamgxtv@gmail.com|Camera Bounds
+bebaf49|2021-10-18 19:09:24 +0000|66850133+codergautam@users.noreply.github.com|Fix Speed Issue.
+4ea35ce|2021-10-18 18:55:59 +0000|66850133+codergautam@users.noreply.github.com|Code Readability
+7a79a85|2021-10-18 18:18:29 +0000|66850133+codergautam@users.noreply.github.com|code cleanup 1
+91b9e31|2021-10-18 13:45:53 +0000|66850133+codergautam@users.noreply.github.com|s
+14304b8|2021-10-17 00:06:13 +0000|66850133+codergautam@users.noreply.github.com|tick
+7f7d7dc|2021-10-16 10:50:41 -0500|gautamgxtv@gmail.com|fixes
+14aedb8|2021-10-15 20:18:00 -0500|gautamgxtv@gmail.com|fill screen
+021db01|2021-10-16 01:10:28 +0000|66850133+codergautam@users.noreply.github.com|k
+9a996cf|2021-10-15 17:03:43 -0500|gautamgxtv@gmail.com|PvP Improvements
+6b20d57|2021-10-15 20:06:37 +0000|66850133+codergautam@users.noreply.github.com|Hello weekend.
+3454f7c|2021-10-15 19:20:59 +0000|66850133+codergautam@users.noreply.github.com|Basic PvP!!!!
+24a465d|2021-10-15 13:57:20 +0000|66850133+codergautam@users.noreply.github.com|basic collisions LETS GO
+a5724ce|2021-10-14 22:35:22 -0500|gautamgxtv@gmail.com|tryna do collisions lmao
+19e3f6d|2021-10-14 18:05:17 -0500|gautamgxtv@gmail.com|Fix MAJOR Lag
+49e6a58|2021-10-14 19:59:29 +0000|66850133+codergautam@users.noreply.github.com|improved multiplayer
+f7515f7|2021-10-13 19:16:44 -0500|gautamgxtv@gmail.com|even with kaboomclient :D
+0d867a4|2021-10-13 17:39:50 -0500|gautamgxtv@gmail.com|basic multiplayer 1
+8a568ed|2021-10-13 22:06:02 +0000|66850133+codergautam@users.noreply.github.com|school
+217492e|2021-10-13 14:57:29 +0000|66850133+codergautam@users.noreply.github.com|phaserclient sword
+27242ee|2021-10-12 19:14:18 -0500|gautamgxtv@gmail.com|phaserclient
+eb79dc5|2021-10-12 22:06:25 +0000|66850133+codergautam@users.noreply.github.com|stuff
+f46aad4|2021-10-12 17:34:28 +0000|66850133+codergautam@users.noreply.github.com|improved multiplayer connectivity
+cab04b6|2021-10-12 15:07:18 +0000|66850133+codergautam@users.noreply.github.com|make kaboomclient still work
+43dbfb1|2021-10-12 10:02:23 -0500|noreply@github.com|Delete .breakpoints
+d85e94a|2021-10-12 15:00:57 +0000|66850133+codergautam@users.noreply.github.com|pixi client
+f1587bf|2021-10-12 13:32:30 +0000|66850133+codergautam@users.noreply.github.com|multiplayer improvements
+331cdbe|2021-10-11 21:47:39 -0500|gautamgxtv@gmail.com|save
+916c836|2021-10-11 20:31:53 -0500|gautamgxtv@gmail.com|stuff
+3fe0f7e|2021-10-11 20:31:37 -0500|gautamgxtv@gmail.com|stuff
+be14159|2021-10-11 18:03:07 -0500|gautamgxtv@gmail.com|improvements
+d7c02d5|2021-10-11 21:55:23 +0000|66850133+codergautam@users.noreply.github.com|changes
+4791907|2021-10-11 13:34:56 +0000|66850133+codergautam@users.noreply.github.com|improvements
+0c4999d|2021-10-10 19:08:50 -0500|gautamgxtv@gmail.com|movement
+920b6c2|2021-10-09 14:24:24 -0500|gautamgxtv@gmail.com|stuff
+9edd825|2021-10-09 12:59:41 -0500|gautamgxtv@gmail.com|better rotations
+6660146|2021-10-09 12:13:54 -0500|gautamgxtv@gmail.com|rotations
+1c933f8|2021-10-08 16:42:24 -0500|gautamgxtv@gmail.com|hi
+38d0c36|2021-10-08 21:35:29 +0000|66850133+codergautam@users.noreply.github.com|more stuff
+3f77aa9|2021-10-08 15:07:21 +0000|66850133+codergautam@users.noreply.github.com|.
+4c6802c|2021-10-08 15:05:14 +0000|66850133+codergautam@users.noreply.github.com|Update gitignore
+2a49da5|2021-10-08 15:04:10 +0000|66850133+codergautam@users.noreply.github.com|add gitignore
+0d79ce8|2021-10-08 14:57:58 +0000|66850133+codergautam@users.noreply.github.com|Initial commit
